@@ -1,0 +1,452 @@
+[
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Are you feeling better now?+3",
+          "She’s so strong.+3",
+          "So are you friends again? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You can’t blame yourself. +2",
+          "You might be right.+3",
+          "Kamoshida had the upper hand. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "It was no big deal. +2",
+          "I couldn’t just ignore you.+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I’ll help. +3",
+          "Let’s find it together. +3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Of course, You're my teammate. +2",
+          "Leave it to me. +2",
+          "The no-refills thing again? +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "How’s that? +0",
+          "You’re amazing. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What kind of stuff…? +0",
+          "That’s your training…? +0",
+          "I don’t get it. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re stupid. +0",
+          "You’re an airhead. +0",
+          "You’re… unique. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "You’re a hard worker. +0",
+          "That response was annoying. +0",
+          "Can we stop yet? +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "I like you. +2",
+          "I love you. +2",
+          "Can we stop yet?+3"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "Listen to me. +0",
+          "This won’t help your heart. +0",
+          "You’re a genius… +0"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "You’re right. +0",
+          "You finally get it. +0"
+        ]
+      },
+      {
+        "response": "Response 8",
+        "values": [
+          "That’s odd. +2",
+          "Has that happened to you?+3"
+        ]
+      },
+      {
+        "response": "Response 9",
+        "values": [
+          "Are you lonely? +0",
+          "That freedom sounds nice.+2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Could be.+2",
+          "You're so self-conscious. +0",
+          "Was she a child model? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I know what you mean.+3",
+          "I’m not sure I follow. +0",
+          "That comes down to you. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That was mean of her. +2",
+          "That’s hilarious.+3",
+          "Was she right? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Tell me.+3",
+          "I’m afraid to know. +2",
+          "…Who? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Good idea.+3",
+          "How exactly? +2"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "That’s not going to work. +0",
+          "You haven’t learned anything. +0",
+          "Good luck with that.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I train everyday.+2",
+          "Not really. +0",
+          "I carry Morgana in my bag.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Maybe. +0",
+          "Give it up.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re outmatched. +0",
+          "She’s amazing, huh…+2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "It had grace.+2",
+          "She’d be a great Phantom Thief. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "So how do you do it? +0",
+          "Tell me more. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "I figured that much. +0",
+          "I mean, that’s why it’s “fake.” +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It seems that way.+3",
+          "That’s such a simple solution. +0",
+          "If it’s a friend, yeah. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "How so? +0",
+          "Was she working hard? +0",
+          "Was she in pain? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re not weak. +0",
+          "It’s because you’re kind. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Comfort her.+3",
+          "Listen to what she has to say. +2",
+          "Show her your own strength.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Someone's motivated.+2",
+          "I'll cheer you on.+2",
+          "You gonna be okay? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s a trap! +0",
+          "She admires you.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "So she could show you up. +0",
+          "Because you’re a natural beauty. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Cheer up. +0",
+          "Please don’t cry. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "You already are one. +0",
+          "Go get ‘em, tiger.+2",
+          "What about your action movies…? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You got this.+2",
+          "Don't strain yourself. +0",
+          "Trying to be like Mika? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That’s a lot of work… +0",
+          "You have some real guts.+3",
+          "You’re beautiful as is. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "There’s no doubt in my mind. +3",
+          "I hope so. +3",
+          "Good luck finding it. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Good advice. +0",
+          "You’re so dumb, Ryuji… +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "She’ll be happy to hear that. +3",
+          "I’m sure she already knows. +3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "That's probably it.+2",
+          "I wonder. +0",
+          "You can ask her yourself.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s dangerous up here. +0",
+          "Step away from the ledge. +0",
+          "Why did you want to come here? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "And? +0",
+          "She’s gone, isn’t she? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Hang in there. +3",
+          "I believe in you, Ann. +3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "You have me. +0(ROMANCE)",
+          "You have the others. +0END"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "You said “I love you.” +0",
+          "I didn’t hear you. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Of course.+2",
+          "I'm yours forever.+2",
+          "That's up to you. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX(ROMANCE)",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You really gave it your all.+3",
+          "You still have a ways to go. +2",
+          "Everyone was complimenting you.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That’s so embarrassing. +2",
+          "I’ll be there with you.+3",
+          "You can do it, Ann.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "What’s wrong? +0",
+          "It’s just the two of us. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Of course. +3",
+          "Anything for you. +3"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "I will. +0",
+          "I already am. +0"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "Of course. +0",
+          "I should be asking you that. +0"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "Couples? +0",
+          "Just Once? +0"
+        ]
+      }
+    ]
+  }
+]

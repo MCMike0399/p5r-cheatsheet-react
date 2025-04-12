@@ -1,0 +1,356 @@
+[
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That wouldn’t solve anything. +0",
+          "That’s a great idea.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "If we work together.+3",
+          "Want me to help? +2",
+          "I don’t know. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Sounds good to me. +0",
+          "Can you tell me again?Repeat Response"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I bet it will.+2",
+          "I'm not sure. +0",
+          "Why not ask him directly? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I what? +0",
+          "So you’re OK? +0",
+          "I was about to come find you.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Good to see you again.+3",
+          "You’re the one who appeared. +2",
+          "You need to be more careful. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "It'll only get tougher. +0",
+          "You will. +0",
+          "We'll both do our best.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Nope. +2",
+          "Let’s do this together.+3",
+          "If you want. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "No, you’re talented. +0",
+          "I bet they were just surprised. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Not at all. +2",
+          "Everyone does it. +2",
+          "I think it’s cute.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "We'll take it slow.+2",
+          "You need more training. +0",
+          "I'll help you anytime.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "He’s in my class. +0",
+          "Friend might be a bit much. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I think you’re right.+3",
+          "No. +0",
+          "Your… what? +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "What’s an NPC? +2",
+          "Savage. +0",
+          "He’s the protagonist.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You did great.+2",
+          "That's nothing special. +0",
+          "Ding! Level up! +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Were you happy? +2",
+          "That must have been a shock.+3",
+          "How did you react? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You didn’t know any better.+2",
+          "Did you apologize to her? +0",
+          "Sounds like it was her fault. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Understood. +0",
+          "Someone’s pushy today. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Are you running away again?+2",
+          "Let's calm down first. +0",
+          "I'm right here with you. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What horrible parents.+2",
+          "We have to put a stop to this.+2",
+          "Strange… how? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’ll do it, for you.+3",
+          "We’ll show them the truth.+3",
+          "Give me some time. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That’s incredible.+3",
+          "I’m glad to hear that.+3",
+          "Did you stutter at all? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You worked really hard too.+3",
+          "You’re making me blush… +2",
+          "Do I get a reward? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Fine by me. +0",
+          "That’s all? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Congrats.+2",
+          "You've still got more. +0",
+          "Want more pats?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’ve really matured.+3",
+          "What if you get bullied again? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That doesn’t sound healthy… +0",
+          "Are you OK, Futaba?+3",
+          "You’re imagining things. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "If you want.+2",
+          "No way.+2",
+          "You’re giving up? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Because we’re teammates. +0END",
+          "Because I love you. +0(ROMANCE)"
+        ]
+      },
+      {
+        "response": "Response 5-7",
+        "values": [
+          "I would like that / If that’s OK with you. +0",
+          "Um, Hello? / Is something wrong? +0",
+          "Earth to Futaba? / Are you still alive? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Instant yakisoba. +0",
+          "Morgana. +0",
+          "Do I really have to say it?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX(ROMANCE)",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What are you talking about? +0",
+          "Don’t worry about it. +0",
+          "…Pardoned? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Mission complete. +0",
+          "Nice job, Futaba. +0",
+          "You did great. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I know. +0",
+          "I don’t mind. +0",
+          "I like being close. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "What’s wrong. +0",
+          "Come closer. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Take your time. +3",
+          "You can do this. +3",
+          "We’ll do it together. +3"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "You can’t lose to her.+3",
+          "Do you want a job too? +2"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "I honor my promises. +0",
+          "Just keep it cheap. +0",
+          "You remember that? +0"
+        ]
+      },
+      {
+        "response": "Response 8",
+        "values": [
+          "I’m counting on you. +0",
+          "That’s a lot of pressure. +0"
+        ]
+      },
+      {
+        "response": "Response 9",
+        "values": [
+          "You already have that right. +3",
+          "Took you long enough to ask. +3",
+          "I want that right too. +3"
+        ]
+      }
+    ]
+  }
+]

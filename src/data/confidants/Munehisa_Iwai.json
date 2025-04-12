@@ -1,0 +1,378 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Leave it to me. +1",
+          "As long as it's safe... +1",
+          "So what's my first job?+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Maybe I should call him. +0",
+          "… Iwai seems sick. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Nothing in particular. +0",
+          "I was daydreaming, sorry. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Who was that guy? +0",
+          "What should I do now?+2",
+          "How’s your cold?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I know how it feels. +0",
+          "Is it seriously that hard? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I always knew you were a thug.+3",
+          "Oh. I, uh… have to go. +0",
+          "Y-Yakuza!? +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Not really. +0",
+          "No, I like that stuff. +0",
+          "We made a deal, didn’t we?+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Is that one of your customers? +0",
+          "Why are you being so mean? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Iwai. +0",
+          "I can’t tell you. +0",
+          "It’s none of your business. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What was that about? +0",
+          "So that was Tsuda? +0",
+          "What did he mean, “sell” him? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Hong Kong mafia. +0",
+          "A 100 million yen deal. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Give it your all. +0",
+          "You two should play nice. +2",
+          "Where’s my reward.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I agree.+2",
+          "Is that a threat? +0",
+          "What's the issue? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Why not? +0",
+          "You shouldn’t lie to your son. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re so kind, Iwai. +0",
+          "You’re pathetic.+3",
+          "You should call the cops. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "That’s right. +2",
+          "Don’t make assumptions. +0",
+          "I’ll stick around for the guns.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You're right.+2",
+          "Is it really all for Kaoru? +0",
+          "Well, you got this. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Why would he say that? +0",
+          "No, nothing even close. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "He definitely does. +0",
+          "You should ask him. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Our futures. +2",
+          "Girls.+3",
+          "That’s a secret.+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Right. +2",
+          "You should tell him, Iwai. +0",
+          "You should buy us something.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "He's my age, so it comes easier.+2",
+          "All I did was listen to him.+2",
+          "It's part of the job. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Not at all. +0",
+          "Absolutely.+3",
+          "I guess he likes guns? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That’s horrible. +0",
+          "He’s clever.+3",
+          "What a crafty bastard. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Is Tsuda seriously dangerous? +0",
+          "Are you going alone? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Bring it on.+2",
+          "I'm worried... +0",
+          "So what's our first move? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7.5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It most definitely was. +2",
+          "I did it all for Iwai.+3",
+          "Actually, it’s been fun. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I will.+2",
+          "I want to help you.+2",
+          "I can’t. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "What’s his full name? +0",
+          "Tell me his name. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s not impossible. +0",
+          "I dunno.+2",
+          "He’s matured. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m back, baby. +2",
+          "I guess I could consider it.+3",
+          "If you pay me well.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Understood.+2",
+          "You worry too much. +0",
+          "Now let's catch him off-guard. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That’s great news. +2",
+          "I feel bad for him. +0",
+          "Are you sure he’s alive?+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Who’s Masa? +0",
+          "Will Karou be OK? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "We should hurry. +0",
+          "Let’s close up shop. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "What’s your goal here, Masa? +0",
+          "Cut the bullshit. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Tell him the truth. +3",
+          "You need to trust your son. +3"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "Karou is really strong-willed.+3",
+          "He gets that maturity from you. +2",
+          "He’s a cool kid, huh?+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Like father, like son.+2",
+          "Gecko bonds go beyond blood.+2",
+          "Why not newts? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s up to you now, Iwai.+3",
+          "Kaoru won’t lose.+3",
+          "Iwai’s kind of slow. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I couldn’t leave him. +0",
+          "It was for the special menu. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "It’s a coincidence. +0",
+          "Should we close up? +0",
+          "What if you’re right?+2"
+        ]
+      }
+    ]
+  }
+]

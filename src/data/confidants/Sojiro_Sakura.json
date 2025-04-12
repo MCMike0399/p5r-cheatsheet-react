@@ -1,0 +1,288 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Got it.+3",
+          "That was our deal. +2",
+          "It's the least I can do. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Making coffee.+2",
+          "Hitting on girls. +0",
+          "No idea. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Who was he? +0",
+          "That guy seemed suspicious.+2",
+          "Who’s the “her” he mentioned? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I want the ladies to love me.+2",
+          "I don’t care about that stuff. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Got it.+2",
+          "Give me a break. +0",
+          "Why'd you call my cell? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Medium-fine.+2",
+          "Coarse. +0",
+          "Anything goes. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Is it a date? +0",
+          "Is it trouble??+2",
+          "You don’t want my help anymore? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'm ready to work.+2",
+          "Go easy on me. +0",
+          "Thank you in advance.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Tell me more.+3",
+          "That sounds tough… +0",
+          "It all tastes the same to me. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Run for help +0",
+          "Call Sojiro’s phone+3",
+          "Kick the man out +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Understood.+2",
+          "I'm kind of nervous... +0",
+          "I'll kick him out. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It wasn’t bad. +2",
+          "Nothing special. +0",
+          "I think I’m addicted!+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "She was like Futaba? +2",
+          "She wasn’t normal, huh?+3",
+          "So that’s why you’re a bachelor? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "It really paid off in the end.+2",
+          "Almost brings a tear to my eye. +0",
+          "So much history… +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Sounds good to me. +0",
+          "She needs a balanced diet.+2",
+          "There's always instant noodles. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I admire it. +0",
+          "I’m not impressed. +0",
+          "To each his own.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re wrong. +2",
+          "I’m sorry. +0",
+          "Shut your mouth.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Saving Futaba was no mistake.+2",
+          "Just cut your ties with him. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Is she okay? +0",
+          "Try to relax. +0",
+          "If I can help somehow...+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You might be right.+3",
+          "That’s not true. +0",
+          "They’re still delicious. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Are you alright? +0",
+          "Have you calmed down? +0",
+          "Do you want to talk? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Let’s talk to him. +0",
+          "You should tell him that. +0",
+          "You guys are one awkward duo. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'm truly glad. +0",
+          "You're welcome. +0",
+          "Feel like a real dad now?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You want my suggestion? +2",
+          "Something with curry.+3",
+          "I can’t decide! +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I didn’t do anything wrong. +0",
+          "I was just protecting Futaba.+3",
+          "Sorry. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s great. +3",
+          "He’s a bit of a nag. +3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Are you crying? +0",
+          "You have a great daughter.+3",
+          "Congrats.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You did great.+3",
+          "Futaba did great.+3",
+          "You two were already family. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "For what? +0",
+          "You guys are religious? +0",
+          "I’m not interested. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Good for you. +3",
+          "Thank you. +3"
+        ]
+      }
+    ]
+  }
+]

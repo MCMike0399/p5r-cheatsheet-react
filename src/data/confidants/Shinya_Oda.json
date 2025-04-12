@@ -1,0 +1,338 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Sure. +1",
+          "Do we have to? +1",
+          "Call me when it's game time.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Sorry… +2",
+          "Don’t compare me to you.+3",
+          "Praise would be encouraging. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Let’s go. +0",
+          "What a rude employee.+2",
+          "Something bothering you? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Are they strong? +0",
+          "Do you admire them?+2"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "So do I.+3",
+          "They’re more than strong. +0",
+          "I’ll let them know.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'll work hard.+2",
+          "If I feel like it. +0",
+          "So then I can beat you?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Did something happen? +0",
+          "Let’s go eat. +0",
+          "Are you fasting? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "OK. +0",
+          "I’m not down with that. +0",
+          "Let me think about it. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Are they bullying you? +0",
+          "Sounds like fun? +0",
+          "You shouldn’t waste food. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "That’s the spirit.+2",
+          "Want to learn martial arts? +0",
+          "You really love your mom. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Sure.+2",
+          "If our schedules line up. +0",
+          "Any food requests? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Calm down. +0",
+          "You’re being a sore loser. +0",
+          "Yeah, you tell him!+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Don’t get so worked up. +0",
+          "Get your revenge.+2",
+          "Pros are amazing, huh? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It was pretty weird.+3",
+          "It happens. +0",
+          "He must’ve rigged it.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You think you have a chance? +0",
+          "I’m sure you can do it.+2",
+          "Don’t get so worked up. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Are you going to give up? +2",
+          "You need a new strategy.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'll be cheering you on.+2",
+          "You're a sharp kid. +0",
+          "Think you can take him?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I can pay for myself. +0",
+          "If you insist. +0",
+          "Do you have enough? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You should return the money. +0",
+          "You’re acting like one. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "That’s good. +2",
+          "I believe in you.+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "A little bit. +0",
+          "Not at all.+3",
+          "I’m worried about you. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Of course I won't.+2",
+          "That's up to you. +0",
+          "I'm your big brother, right? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I haven’t done anything. +0",
+          "Calm down. +0",
+          "Bad influence? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Take it easy on him. +0",
+          "Think about his feelings. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Bring it on, lady. +0",
+          "I haven’t done anything. +0",
+          "That wouldn’t be good. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "What’s your mom’s name? +0",
+          "Tell me about your mom. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "She’s out to control. +0",
+          "No, she’s not.+2",
+          "Is that what you think?+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "It’ll all work out. +2",
+          "I can’t guarantee it. +0",
+          "Believe in them.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Is that too much for you? +0",
+          "Way to step up. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Let’s save her. +3",
+          "That’s admirable. +3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I'm glad to hear that.+3",
+          "That's hard to believe. +0",
+          "Thank the Phantom Thieves. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "A little bit, yea. +2",
+          "No, that makes sense.+3",
+          "It means you've matured.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "He wants to win at all costs.+2",
+          "He's too lazy to practice. +0",
+          "I wouldn't know... +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Your wish came true. +2",
+          "You really think It was them? +2",
+          "You did a great job too. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Thanks to my hard work. +2",
+          "Thanks to my teacher.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You got your revenge. +0",
+          "You made things right.+3",
+          "You made new friends.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I'll let you in. +0",
+          "Ask them yourself. +0"
+        ]
+      }
+    ]
+  }
+]

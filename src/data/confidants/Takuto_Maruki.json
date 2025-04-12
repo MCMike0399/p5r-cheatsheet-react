@@ -1,0 +1,396 @@
+[
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Didn't have much choice. +0",
+          "We made a deal.+2",
+          "I'm a little nervous.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "It's in the past. +0",
+          "I'm doing okay now. +0",
+          "So much for privacy. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "But it sounds right.+3",
+          "Yep. +2",
+          "Kinda creeping me out here. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "So... what? +0",
+          "I'll need more details. +0",
+          "Uh... +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Well, okay.+2",
+          "Better make it worth it. +0",
+          "Why me, though? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "So they have, huh?+2",
+          "You worry too much. +0",
+          "Thanks to you, probably.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Of course.+2",
+          "Yeah, for our deal.+2",
+          "I forgot. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "When someone betrays me. +0",
+          "When I lie. +0",
+          "When I get punched. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "That one seems necessary+2",
+          "We'd be better off without it. +0",
+          "It's a seed for new loves.+2"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Did that help? +2",
+          "Don't worry about it. +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Good work over there.+2",
+          "So you're actually working? +0",
+          "Getting to your research now? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Where's this coming from? +0",
+          "What are you talking about? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I know, right...?+3",
+          "It's not the worst. +0",
+          "Talk about a reward. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "That'd be great. +2",
+          "Is that possible? +0",
+          "Is that what you're researching?+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "...... +0",
+          "Are you okay? +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "That's a grand plan. +2",
+          "You're so kind. +2"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "That sounds fun.+3",
+          "I'm not the \"free labor\" type. +0",
+          "Nope. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'm completely fine.+2",
+          "It's part of our deal, so...+2",
+          "I'm struggling, to be honest. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "This looks great!+3",
+          "How old do you think I am? +0",
+          "I could just take cash... +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "The one-cookie container. +0",
+          "The ten-cookie container. +0",
+          "It was a tie. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I never considered that. +0",
+          "They're getting played. +2",
+          "You know, you're right.+3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "My senses lied to me!+2",
+          "Hey, as long as it tastes good.+2",
+          "It's a little scary. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Not \"truth\" exactly... +0",
+          "I guess so.+2",
+          "I don't know. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I really don't mind.+2",
+          "Come on, man. +0",
+          "It was thought-provoking.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You wanted to talk? +0",
+          "Another cup?+2",
+          "We've got curry, too.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I can do that.+3",
+          "It's a deal. +2",
+          "I'm not up for this... +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Isn't that enough? +0",
+          "You need more than that? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "So what CAN we do? +0",
+          "It's a hard question... +0",
+          "So give up.+2"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "All hearts share some things. +0",
+          "What if they're connected? +0"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "Calm down. +0",
+          "Where's this coming from? +0",
+          "Cognitive pscience? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Calm down.+2",
+          "What's going on?+2",
+          "Heavy breathing? Pervert. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You really are dedicated. +3",
+          "Are they even relevant? +3",
+          "Are you a fan? +3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "No idea. +3",
+          "As in, removing them? +3",
+          "How about you Maruki? +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "The change of heart...? +3",
+          "...... +3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I have no clue. +3",
+          "Sounds pretty far-fetched. +3",
+          "It's intriguing. +3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I'm good on cookies, thanks. +2",
+          "What do you mean?+3",
+          "Thanks, but I should get going. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Ooh, really?+3",
+          "Can you afford that? +2",
+          "Sorry, I prefer sushi. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Thanks for the food!+3",
+          "Self-control much? +0",
+          "This is quite the spread. +2"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I'm his pupil. +2",
+          "It's complicated. +0",
+          "We've made a deal.+3"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Congratulations. +3",
+          "Way to go. +3"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "I sure do. +3",
+          "Let's celebrate. +3"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "She's a girlfriend of yours? +0",
+          "Who's Rumi? +0",
+          "Should I leave you two to talk? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "He's a good friend.+2",
+          "Learn some independence. +0",
+          "You'll get the tab next time. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Yeah. +0",
+          "Kind of. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Kind of sad...+3",
+          "Is our deal over? +2",
+          "Well... take care of yourself. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": []
+  }
+]

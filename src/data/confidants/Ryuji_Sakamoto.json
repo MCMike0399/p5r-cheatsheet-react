@@ -1,0 +1,302 @@
+[
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I’m counting on you.+3",
+          "You seem pretty excited.+3",
+          "…Help with what? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What about them? +0",
+          "And then you punched him? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Do you want to go back?+2",
+          "Do you regret it?+2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You're already fast enough. +2",
+          "Are your legs okay? +2",
+          "It's never too late, man. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Let’s not fight.+2",
+          "Want to train with us? +0",
+          "It’s nice to meet you. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Calm down, Ryuji.+3",
+          "Just endure it. +2",
+          "I’ll shut them up. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I can't exactly blame you.+2",
+          "Violence is not the answer. +0",
+          "Yeah, that'd be best. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Nakaoka? +0",
+          "Are you worried about him?+2",
+          "Just leave him be. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "But you’re doing great.+3",
+          "It’s not so bad. +2",
+          "I know how you feel.+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "A towel? +2",
+          "Protein powder?+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You seem conflicted.+2",
+          "Do you want to rejoin?+2",
+          "You’re done with them, right? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "So he’s short? +2",
+          "So he’s an asshole?+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Don't worry. I gotcha.+2",
+          "I haven't agreed to anything.",
+          "Fine, but you're buying ramen. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Let’s stay here. +2",
+          "How about Protein Lovers? +2",
+          "We can train at my place.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You guys should trust Nakaoka. +3",
+          "This is no time for arguing. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Absolutely.+3",
+          "More or less.+3",
+          "Not in the slightest. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I don’t get it. +0",
+          "Can you explain that? +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "…Huh? +0",
+          "I really don’t understand. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Sounds like you two were close. +0",
+          "Just like you.",
+          "So he should've punched back?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Should we change his heart? +0",
+          "Let’s talk to Takeishi.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I think it’s cool, Ryuji.+3",
+          "Wait, what? +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Never know until you try+2",
+          "It's out of our hands. +0",
+          "We'll use force if we have to. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What if they start fighting? +0",
+          "I doubt they’ll believe you. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Things turned out for the best.+3",
+          "You deserved it. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "All I did was watch.+3",
+          "Are you gonna pay me back? +2"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "But I was just standing here… +2",
+          "You weren’t cool though.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You did a great job. +0",
+          "So. Closed case?+2",
+          "We make a good team too. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Are you satisfied now?+3",
+          "Not Running? +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What did you say? +2",
+          "Do you have any time for that? +2",
+          "Don’t do it.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re Right. +3",
+          "I never realized that. +3"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I agree.+2",
+          "Be more specific. +0",
+          "And where is this place? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Congratulations.+2",
+          "Got him under control, how? +0",
+          "Better watch out for them.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I’m looking forward to it. +3",
+          "We can’t lose either. +3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re welcome. +0",
+          "It’s all because of you. +0"
+        ]
+      }
+    ]
+  }
+]

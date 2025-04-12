@@ -1,0 +1,300 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Thanks. +2",
+          "I'll try not to. +2",
+          "I'll be asking a lot.+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It’s novel.+2",
+          "It’s enigmatic.+2",
+          "…What is it? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I can’t wait.+3",
+          "I hope you’re right.+3",
+          "Will people like it? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You're already doing enough.+2",
+          "I'm looking forward to it. +0",
+          "Will you really? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That was harsh. +0",
+          "What a dick. +0",
+          "Don’t let it bother you.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Stop exaggerating. +0",
+          "This is just the beginning. +0",
+          "Stand up. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re really giving up? +2",
+          "This isn’t like you.+3",
+          "Stand up, Ysuke. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "How exactly? +2",
+          "That’s the spirit. +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "That's the spirit.+2",
+          "You're taking this too far. +0",
+          "That's all? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What are we doing here? +0",
+          "Why are we in a boat?+2",
+          "I should bring a girl here.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Love comes in all forms.+3",
+          "Maybe you should train more. +2",
+          "You have a wild imagination. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Don't get discouraged.+2",
+          "Just keep drawing. +0",
+          "You lack love yourself. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Make me beautiful. +0",
+          "I dunno if I can do it… +2",
+          "Do you want me to strip?+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m sure you will.+3",
+          "It doesn’t look like it.+3",
+          "Do you want to give up? +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Don't overthink it. +0",
+          "You have to keep drawing. +0",
+          "There's still hope.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It feels nostalgic.+2",
+          "Why are we here again? +0",
+          "Are you going in? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "We should get it fixed. +0",
+          "Let’s force it open. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Are you OK? +0",
+          "You’re not looking so good. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Maybe he was sympathetic.+3",
+          "He somehow knew you had skill. +2",
+          "I couldn’t possibly tell you.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "He had a certain dignity.+2",
+          "He seems reliable. +0",
+          "I'm not sure. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "That’s a great name. +0",
+          "What do you mean?+2",
+          "Handsome…? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "The truth is within you.+3",
+          "Money is important. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Calm down.+2",
+          "It's not a crime to enjoy sushi.+2",
+          "Let's go again sometime. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Scenery is always nice. +0",
+          "I’d say Morgana. +0",
+          "It has to be Ann.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What’s wrong with that? +2",
+          "The same applies to everyone. +0",
+          "You’ve really grown, Yusuke.+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Her love for her son.+3",
+          "The pain of separation.+3",
+          "I don’t know. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’ve really changed, Yusuke.+3",
+          "That’s a great idea. +2",
+          "It won’t be easy. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "It turned out well. +0",
+          "So you added hope? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You provoked Yusuke on purpose? +0",
+          "Are you scheming something? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "“He”? +0",
+          "Do you mean Madarame? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "He was a good man deep down. +3",
+          "That was another aspect of him. +3"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Yeah… +0",
+          "You’re stranger, Yusuke. +0",
+          "Are you sure about this? +0"
+        ]
+      }
+    ]
+  }
+]

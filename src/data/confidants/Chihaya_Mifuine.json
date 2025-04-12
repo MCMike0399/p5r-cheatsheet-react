@@ -1,0 +1,372 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "I'll be there.+3",
+          "Such a hassle. +1",
+          "You're pretty extreme... +1"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Suggest she gives up.",
+          "Change her boss’s heart.",
+          "Encourage her. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Hrahhh!",
+          "Overturn your fate! +0",
+          "Fight the power!"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re so stubborn +0",
+          "Open your mind to change.+2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Of course I am.+2",
+          "And if I am? +0",
+          "Are you stalking me? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Go for the money.",
+          "Follow his heart. +0",
+          "Chase a promotion."
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Thieves may steal her away. +0",
+          "Marriage kills individuality.",
+          "She’ll be sad if you break it off."
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I’m not, sorry. +0",
+          "Who knows…? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’re only realizing that now? +0",
+          "Do you want to test it again? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Strengthen your will. +2",
+          "I don’t know. +0",
+          "Trust in yourself.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Tell me more. +0",
+          "That sounds so peaceful. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "…The chairman? +0",
+          "I’m not sure I follow. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "I think it’ll work. +0",
+          "It all depends on you. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'm glad to hear that. +0",
+          "I didn't do much.+2",
+          "Tell me more about your home. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’re such a hard worker. +3",
+          "What about divine power? +0",
+          "You must have lots of free time. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "But what? +0",
+          "Did you spend it all? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Who was he? +0",
+          "Maiden? +0",
+          "Are you in trouble? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I like fortune-telling. +0",
+          "She’s really cool. +0",
+          "I’m doing research for school. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "…Maiden of Relief? +0",
+          "This has to be a joke. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "This guy’s sketchy. +0",
+          "Leave her alone. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "What’s a Maiden of Relief? +0",
+          "Who thinks you’re a monster? +0",
+          "You’re just Chihaya to me.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "No need to strain yourself. +0",
+          "Be honest with yourself.+2",
+          "We'll work on it together. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’re not wrong about that. +0",
+          "You shouldn’t have tricked them. +2",
+          "I don’t think so.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Are you gonna be okay?+2",
+          "Be careful.+2",
+          "So the Maiden's taking action. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7.5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "How so? +0",
+          "What have you found? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Tell me his name. +0",
+          "What’s Fukurai’s first name? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I can’t tell you. +0",
+          "Don’t worry about it. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I had no idea. +2",
+          "I know.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m glad to hear that. +3",
+          "That’s some good luck. +3",
+          "It’s because you’re strong. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Why do you ask? +0",
+          "Hell yeah I am.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You give me too much credit. +0",
+          "It was all your own will.+2",
+          "I knew it would happen. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You really don’t understand. +0",
+          "Listen to what Chihaya’s saying. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Do you regret what you did? +0",
+          "Well, fate can be changed.+3",
+          "That’s all in the past now. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I like having my fortune read. +0",
+          "So I can be with you. +0(ROMANCE)"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I wanted to hear your voice too.+2",
+          "Oh, you didn't mean it...? +0",
+          "..... +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX(ROMANCE)",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’ve never been here? +0",
+          "It wasn’t that far away. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I support you. +3",
+          "You have strong convictions. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I wonder if you’re right… +0",
+          "So what if I am the Trickster? +0",
+          "You’re pretty sharp. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "It’s not a problem. +0",
+          "Are you worried about me? +0",
+          "What does it mean? +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Thank you.+0",
+          "That’s really reassuring. +0"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "I don’t care about that. +2",
+          "It’s actually pretty cute.+3"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "I was hoping you’d say that. +0",
+          "I don’t want to go home. +0"
+        ]
+      }
+    ]
+  }
+]

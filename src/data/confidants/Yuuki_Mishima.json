@@ -1,0 +1,385 @@
+[
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I don’t understand. +0",
+          "…Phan-Site? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’ve done good, kid.+3",
+          "That sounds pretty tough. +0",
+          "Is this really necessary? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Uh, strategic… what? +0",
+          "Sounds cool.+3",
+          "You’re really hyped for this. +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Nice hustle, image manager.+2",
+          "Calm down. +0",
+          "All-nighters can mess you up. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I’ve never heard that before. +0",
+          "Great idea.+3",
+          "I’m already taken. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m worried about this… +0",
+          "We’re part of… The Phandom?+2",
+          "Let’s tell them the truth.+2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "It’s not your fault.+2",
+          "Don’t overwork yourself. +0",
+          "I can’t trust anyone anymore… +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Of course. +2",
+          "Really? +2",
+          "You'll get it right next time. +2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Steak sounds good.+3",
+          "Some nice organic veggies. +0",
+          "I love desserts. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re amazing.+2",
+          "That sounds like a scam. +0",
+          "Stop this at once. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You’re right. +0",
+          "Of course it would. +0",
+          "Maybe we can keep it. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Yup.+2",
+          "That's one way to view it. +0",
+          "You'll get better ideas.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Why was it so expensive? +2",
+          "It looks almost real. +0",
+          "Is it for me?+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That’s a good idea.+2",
+          "Are you sure that’s necessary? +0",
+          "Don’t do anything stupid. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "All right.+2",
+          "I expect great things. +0",
+          "... Did something happen. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Just tell me already.+2",
+          "I’m not interested. +0",
+          "You sure are fired up…+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Calm yourself. +0",
+          "Rumors are wrong all the time…+2",
+          "It’s none of your business. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Why? +0",
+          "I didn’t ask for that. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Is that right…? +0",
+          "Absolutely. Nice job.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6.5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "And what exactly will we win? +2",
+          "You’re so reliable.+3",
+          "Chill out, dude. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Sounds pretty twisted.+2",
+          "By changing their hearts? +0",
+          "You really need to chill.+2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Fun…? +0",
+          "This isn’t like you. +0",
+          "You’re worrying me. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "We very well might. +0",
+          "Are you feeling guilty? +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "Let’s go. +0",
+          "This is the only way... +0"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "You’re riding our coattails. +0",
+          "Would that really satisfy you? +0"
+        ]
+      },
+      {
+        "response": "Response 7",
+        "values": [
+          "Do it yourself. +0",
+          "We’re leaving. +0",
+          "There’s no need. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I don’t wanna change his heart. +0",
+          "Let’s cancel the request. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Stop worrying about fame. +0",
+          "You still care about fame? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I’m sure there is. +2",
+          "I hope so. +0",
+          "Maybe the Phan-Site?+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Kind of worrying...+2",
+          "Be careful. +0",
+          "It's your time to shine.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I’m not leaving.+3",
+          "You should run too. +2",
+          "What are you going to do? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "You’re just gonna take that? +2",
+          "Believe in yourself. +2",
+          "They’re the real losers. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Totally. +2",
+          "You were super cool.+3",
+          "Wait, that was all an act?+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "You'll be fine.+2",
+          "Calm down. +0",
+          "You've got this, man.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You, dead as a doornail. +0",
+          "You showed some real courage.+3",
+          "I’m glad you’re still alive. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Something like that. +0",
+          "Exactly. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Don’t use our real names. +0",
+          "This came out of nowhere. +0",
+          "I can’t wait to watch it. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Meh. +0",
+          "What about a parfait instead? +0",
+          "I’m feeling steak, actually. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "The sparkle in your eye.+2",
+          "..... +0",
+          "Your hair? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Did you find your answer? +0",
+          "Were you scared stiff? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "That was courageous.+3",
+          "But you were afraid. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I didn’t do anything. +0",
+          "Nobody stole your heart. +0",
+          "You changed yourself. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I’m sure you will. +0",
+          "Make it a bestseller. +0",
+          "You have to write it first. +0"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,265 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Of course. +1",
+          "If I must. +0",
+          "Let me write this down.+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I want to change the world. +0",
+          "I want to improve my speech.+2",
+          "I’m not sure… +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "One with conviction.+2",
+          "A popular one. +0",
+          "I don’t know yet.+2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "That was helpful.+2",
+          "I knew that already. +0",
+          "What I want to accomplish? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "It was helpful.+2",
+          "Somewhat. +0",
+          "It changed my whole outlook.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Yes, Mr. Yoshida told me. +0",
+          "No, and I don’t care. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "His message.+2",
+          "No His speaking skills.+2",
+          "It’s hard to say. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I will. +0",
+          "I'm not sure I get it. +0",
+          "You think I'll ever find it?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Stop interrupting him. +0",
+          "You’re annoying the audience. +0",
+          "Just shut up and listen. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Yep. +0",
+          "What do you think? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "The ex-convict has a point. +0",
+          "Listen to what he has to say. +0",
+          "So what if he’s No-Good Tora? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "I couldn’t help myself.+2",
+          "I just spoke the truth. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I will.+2",
+          "I'm not sure I can. +0",
+          "Can't forget your roots.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I think so. +2",
+          "Don’t let your guard down. +0",
+          "The media doesn’t matter.+3"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "I’m for them. +2",
+          "I’m against them. +0",
+          "I don’t really care.+3"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’d decline.+3",
+          "I’d take the offer. +0",
+          "I’d leave it to chance. +2"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'll keep this in mind.+2",
+          "Lose sight of who I am? +0",
+          "You make quite a case.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You should decline.+2",
+          "That’s a sweet deal. +0",
+          "I wasn’t paying attention. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "He’s not No-Good Tora. +0",
+          "Call him Mr. Yoshida. +0",
+          "He’ll get elected this time. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "That’s not for you to decide. +0",
+          "Maybe… +0",
+          "I still believe in him. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Are you going to do it? +0",
+          "Don’t do it. +0",
+          "That’s a difficult decision.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Stick to your beliefs.+3",
+          "Clear your name. +0",
+          "Get elected. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "What good would that do? +0",
+          "So what if you’re right? +0",
+          "…… +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I'll never forget that.+2",
+          "It's tougher than it seems.+2",
+          "...... +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Do your best.+3",
+          "Break a leg. +0",
+          "I’m getting nervous. +2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What are you talking about? +0",
+          "You had a change of heart.+2",
+          "…… +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Your true self was revealed.+3",
+          "You’re going to be popular. +2",
+          "Don’t let your guard down.+3"
+        ]
+      }
+    ]
+  }
+]

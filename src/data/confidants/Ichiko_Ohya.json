@@ -1,0 +1,387 @@
+[
+  {
+    "rank": "Rank 1",
+    "responses": [
+      {
+        "response": "Followup",
+        "values": [
+          "Thanks +0",
+          "Sounds like a good time. +0",
+          "Doing what? +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 2",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Why do you ask? +0",
+          "I don’t. +0",
+          "Mishima might…+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Worth…? +0",
+          "What about their justice? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I like the atmosphere. +0",
+          "It’s for the article.+2",
+          "Tell me about that incident. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 3",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Minors couldn’t do that stuff. +0",
+          "You might be right. +0",
+          "You shouldn’t make assumptions.+2"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What’s the difference? +0",
+          "I’m sure you are. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Why not change careers? +0",
+          "Maybe you should quit. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "What was she accused of? +0",
+          "What happened? +0",
+          "She was falsely accused?+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 4",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What’s this about? +0",
+          "She hasn’t done anything wrong. +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Of course we are. +2",
+          "Don’t tell anybody. +2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Our movie is about to start. +0",
+          "That’s enough. +0",
+          "We’re dating. Seriously. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Leave it to me.+2",
+          "That was our deal.+2",
+          "Anything for my girlfriend. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Because of your investigation? +0",
+          "Because of your incident? +0",
+          "Are you sure we’re the same? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m curious. +0",
+          "You can trust me. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "What was the cause of death? +0",
+          "Who killed him? +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "That sounds like defamation. +2",
+          "That’s unforgivable.+3",
+          "How’s your search going? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I don't mind.+2",
+          "As long as I'm compensated. +0",
+          "I did the same to you. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 6",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Did something bad happen? +0",
+          "Having trouble at work? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "He must not like you.+2",
+          "Did he find out? +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "Do you have evidence of that? +0",
+          "You should trust in her.+2",
+          "You might be right. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "That’s the spirit+2",
+          "You’re a great journalist.+2",
+          "What about your quota? +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Glad to hear that. +0",
+          "Don't work yourself to death. +0",
+          "I'll dig up some more for you.+2"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "What was that about? +0",
+          "Could it be…? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Calm down. +2",
+          "Don’t let him provoke you.+3",
+          "Let’s think of another way.+3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "You should work on that. +2",
+          "You’re charming as you are.+3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "That's the spirit.+2",
+          "Sounds tough. +0",
+          "Don't strain yourself. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 7.5",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Like what? +0",
+          "You seem tired.+2",
+          "So… I have a pet cat… +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What’s the chief’s name? +0",
+          "Tell me more about him. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 8",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "He reflected on his actions. +0",
+          "Aren’t you happy? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "Did I? Can’t remember. +0",
+          "Uh, nope. +0"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I’m glad to hear that. +0",
+          "Thank god. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "That’s not like you. +3",
+          "You need pursue the truth. +3",
+          "I’ll go with you. +3"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "Good luck.+2",
+          "Be careful.+2",
+          "Grab a souvenir for me. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank 9",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "Are you OK? +0",
+          "Did you learn the truth? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "What are you going to do? +0",
+          "You’re not giving up, are you?+2"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "I can’t leave you.+3",
+          "I want to help.+3",
+          "I need those articles. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "Of course not. +0",
+          "No way. +0"
+        ]
+      },
+      {
+        "response": "Response 5",
+        "values": [
+          "I took it seriously. +0(ROMANCE)",
+          "I didn’t take it seriously. +0END"
+        ]
+      },
+      {
+        "response": "Response 6",
+        "values": [
+          "I love you, Ichiko. +0(ROMANCE)",
+          "I’m just kidding. +0"
+        ]
+      },
+      {
+        "response": "Followup",
+        "values": [
+          "I wanted to hear your voice.+2",
+          "Please don't dump me.+2",
+          "IloveyouIloveyouIloveyou. +0"
+        ]
+      }
+    ]
+  },
+  {
+    "rank": "Rank MAX(ROMANCE)",
+    "responses": [
+      {
+        "response": "Response 1",
+        "values": [
+          "You’re really earnest. +2",
+          "Is that entertainment?+3",
+          "You don’t need my info? +0"
+        ]
+      },
+      {
+        "response": "Response 2",
+        "values": [
+          "I’m glad to hear that. +3",
+          "I’ll read the next issue. +3"
+        ]
+      },
+      {
+        "response": "Response 3",
+        "values": [
+          "So you knew all along? +0",
+          "It’s just a coincidence. +0",
+          "Lala’s the real phantom thief. +0"
+        ]
+      },
+      {
+        "response": "Response 4",
+        "values": [
+          "It’s up to you. +3",
+          "I want to go to your place. +3"
+        ]
+      }
+    ]
+  }
+]

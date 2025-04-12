@@ -1,0 +1,7204 @@
+[
+  {
+    "question": "A bad rep spreads like wildfire. If I were you, I'd quit all this nonsense. What's the point?",
+    "answers": [
+      {
+        "answer": "You're right.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't care.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't know any other way.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "After all, isn't it not pitiable when one denies one's own feelings?",
+    "answers": [
+      {
+        "answer": "It is a difficult topic.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "But the outcome is clear.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's mature to admit defeat.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "After confronting me like this... Are you that kind of human too?",
+    "answers": [
+      {
+        "answer": "That's not my style.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What's wrong with that?",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "So what?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Ah, it's a shame. If I'd taken this seriously from the start, I wouldn't be in this sorry state.",
+    "answers": [
+      {
+        "answer": "Then get serious now.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Making excuses?",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I wasn't trying either.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Ain't people your age suppose'ta be out on dates and stuff instead?",
+    "answers": [
+      {
+        "answer": "Right after this, kid.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Such a rude little boy...",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Dating's not important.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "And if that's the case, why don't you just stop this futile endeavor? It's meaningless...",
+    "answers": [
+      {
+        "answer": "You have a point there...",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can't stop.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll find meaning in it.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Are all the kids these days doin' stuff like this?",
+    "answers": [
+      {
+        "answer": "Yeah, we sure are.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No, I thought this up myself.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Want to join in?",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Are you bored?",
+    "answers": [
+      {
+        "answer": "Yes, I'm bored.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm actually pretty busy.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I never thought about it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Are you fighting to help or protect the world or something?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I won't tell you.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It pays the bills.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "As far as you're concerned, what kind of person was I to you?",
+    "answers": [
+      {
+        "answer": "My rival.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Nobody, really.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It doesn't matter.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...But be-hee-fore all that, let's enjoy a little chat, ho!",
+    "answers": [
+      {
+        "answer": "All right, I suppose.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "There's no need for that.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "[...]",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "But before you do, do something funny. What can you do?",
+    "answers": [
+      {
+        "answer": "Impressions.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Making funny faces.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "But is it fair to my kind if only I find such happiness, leaving them all behind?",
+    "answers": [
+      {
+        "answer": "I think so.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "They can all come.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Your kind?",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "But I've been around the block, so I know--there's something else you want from me, isn't there?",
+    "answers": [
+      {
+        "answer": "Nope.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I just love the elderly.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I just want you to die happy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "But I've got a catch phrase that I'm famous for.",
+    "answers": [
+      {
+        "answer": "Hee-ho!",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Hee-haw!",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Personaaa!",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "But this way of life in this world is all I've ever known.",
+    "answers": [
+      {
+        "answer": "It's not meaningless.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "There are other ways to live.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "You had a good run.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "But what if I ripped your body apart? ...What color blood would come pouring out?",
+    "answers": [
+      {
+        "answer": "Red.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Green.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't bleed or cry.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Can you sacrifice yourself in order to demonstrate your adoration of our Father?",
+    "answers": [
+      {
+        "answer": "I can.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can't.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't adore him.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Can you sacrifice yourself in order to demonstrate your veneration of our Father?",
+    "answers": [
+      {
+        "answer": "I can certainly try.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No can do.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What's veneration?",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Care to explain yourself? I certainly hope you have a good reason for this boorish treatment.",
+    "answers": [
+      {
+        "answer": "That would take a while.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "There's no need to explain.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Just shut up...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "C'mon, what's with the mask? Kinda cringy, don'tcha think?",
+    "answers": [
+      {
+        "answer": "Sure is.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Shut up...",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm secretly a kid.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Confess your sins.",
+    "answers": [
+      {
+        "answer": "I apologize.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I think... I was wrong.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No chance.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Could this be what humans call a proposal...?",
+    "answers": [
+      {
+        "answer": "I'm surprised you knew.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No, it's not.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's a myth.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Couldn't ya at least make me a cup of tea or somethin'? Hell, that'd be real polite.",
+    "answers": [
+      {
+        "answer": "So sorry.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Brew your own.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not known for being polite.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Did I just see your hand shaking? Isn't your guilt tormenting you?",
+    "answers": [
+      {
+        "answer": "It's just a chill.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Yeah, I can't take it...",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Did I... lose?",
+    "answers": [
+      {
+        "answer": "Yup...",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Not sure yet.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nah, you totally won.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Didn't you feel like that when you were a kid, too?",
+    "answers": [
+      {
+        "answer": "It's not so bad-olescent.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Being a kid is tough.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't remember.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Do you have a dish you're good at?",
+    "answers": [
+      {
+        "answer": "Fried rice.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Mystery meat.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What are you saying?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Do you have a lot of friends? Ever feel like the things they do are annoying?",
+    "answers": [
+      {
+        "answer": "Sometimes.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I have no friends.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Do you know what I speak of?",
+    "answers": [
+      {
+        "answer": "Sin...?",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Please tell me.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I've done nothing wrong.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Do you seek friendly competition with a beloved neighbor? Or have you come to destroy a hated foe?",
+    "answers": [
+      {
+        "answer": "You're a beloved neighbor.",
+        "gloomy": "-",
+        "irritable": "GOOD / OK?",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're a loathsome foe.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You sound preachy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Do you...think of me as a charlatan?",
+    "answers": [
+      {
+        "answer": "I don't think that.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I think of you as a foe.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're not one?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Do you think they really mean it all the time?",
+    "answers": [
+      {
+        "answer": "Yes.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No, but they say it anyway.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm cuter than most kids.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Doesn't what you're doing bother your conscience?",
+    "answers": [
+      {
+        "answer": "Now that you mention it...",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "...Nope",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm past such things.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Don't take this the wrong way, but man... Bein' a carefree kid sure must be nice.",
+    "answers": [
+      {
+        "answer": "I want to be a kid forever.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I prefer being an adult.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I wish I was still a baby.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Don't you think expecting your would-be victim to be receptive to your words is unreasonable?",
+    "answers": [
+      {
+        "answer": "I do.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't worry about it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Don't you think it's sad that slang and sayings can grow old and get outdated?",
+    "answers": [
+      {
+        "answer": "That is sad.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't think so.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That just proves you're old.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "For you to force me to prostrate myself, as one who only seeks your well-being... Is there anything more irrational?",
+    "answers": [
+      {
+        "answer": "My apologies.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't want salvation.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Guess what I want you to read me before you tuck me into bed!",
+    "answers": [
+      {
+        "answer": "An animal book",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "A story about a Yakuza",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I have no idea",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Had I known things would turn out like this, I'd wish I had found the courage to ask that girl out...",
+    "answers": [
+      {
+        "answer": "It's not too late.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "You never had a chance.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll make sure she's happy.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Have you made an appointment, ho?",
+    "answers": [
+      {
+        "answer": "I have.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "That's not it.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Just tell me what you know.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Heed my words. I am not the one you should detest.",
+    "answers": [
+      {
+        "answer": "You're right.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's absurd.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'll be the judge of that.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Hell, I got all sortsa girls lined up if you're into that.",
+    "answers": [
+      {
+        "answer": "Really?",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're trying way too hard.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm not interested.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Hey. Aren't you hungry? Can we take a break and go eat somewhere?",
+    "answers": [
+      {
+        "answer": "What're we getting?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Yeah.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Now's not the time.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Hey, how about this? If you don't shoot me, then I'll kiss you. Not a bad deal, right?",
+    "answers": [
+      {
+        "answer": "Not a bad idea.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't want a kiss.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Have some self-respect.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Hey, if I don't die here, what do you think I'll be like in the future?",
+    "answers": [
+      {
+        "answer": "A fashionable older woman.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I can't measure that.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Living in darkness.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey, if ya got any medicine, lend me some. One of them painkillers...",
+    "answers": [
+      {
+        "answer": "Are you okay?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I have some antacids.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "That won't change anything.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey, if you got any medicine, lend me some. They're supposed ta work miracles, right...?",
+    "answers": [
+      {
+        "answer": "Are you OK?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What kind of medicine?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That won't change anything?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey, is my hair flat? Does it look weird?",
+    "answers": [
+      {
+        "answer": "It looks cute.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's weird looking.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Who cares?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey, let's play a game! Guess what I wanna eat!",
+    "answers": [
+      {
+        "answer": "Hamburgers.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Curry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey, mister, will you give me a yummy snack to eat?",
+    "answers": [
+      {
+        "answer": "Later.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No way.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What would you like?",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Hey. So whaddya feel when you think about the future?",
+    "answers": [
+      {
+        "answer": "An average level of happiness.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Live fast, die young.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Nothing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Hey, sonny if somethin's been botherin' you. I'm willin' ta give you a listen.",
+    "answers": [
+      {
+        "answer": "My relationships...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I smell sweaty.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I have no worries.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Hey, there's no need for all this, right? Let's drop the drama and just go get something to eat. The thought has crossed your mind, hasn't it? Come on, where would you take me?",
+    "answers": [
+      {
+        "answer": "An expensive French restaurant.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "A busy ramen joint.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Where would you like to go?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Hey. Why aren't ya at school?",
+    "answers": [
+      {
+        "answer": "It's after school.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't feel like going.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I actually finished school.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Honestly, aren't I, like, a way better girl than those idols?",
+    "answers": [
+      {
+        "answer": "You're more unique.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Not really...",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Who cares about idols?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "How about we live together? What kind of place do you want to live in?",
+    "answers": [
+      {
+        "answer": "I can't live with you.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Next to a convenience store.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "How 'bout we have an interview? You're the winner, after all. I'll listen to whatever you gotta say.",
+    "answers": [
+      {
+        "answer": "I feel great.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I want to aim higher.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Fighting is pointless.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "How 'bout you, sonny? What kinda trip do you wanna take?",
+    "answers": [
+      {
+        "answer": "A luxury cruise.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Don't want to go anywhere.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "A trip to hell.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "How 'bout you? You wanna get married someday?",
+    "answers": [
+      {
+        "answer": "I do.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "That's impossible.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "How can you do such terrible things to a cute hee-ho like me!?",
+    "answers": [
+      {
+        "answer": "I'm sorry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Now that you mention it...",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "...Cute?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "How did I lose to you? I mean... I win when it comes to looks, ho.",
+    "answers": [
+      {
+        "answer": "You're right.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "No, I do.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's all about heart.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "How did you find out about me, ho?",
+    "answers": [
+      {
+        "answer": "Some flyers.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "A speciatly site.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Word of mouth.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Humans always want either an autograph or a self-hee, ho. Which is it, ho?",
+    "answers": [
+      {
+        "answer": "I want an autograph.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I want a photo.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Give me your credit card.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Humans talk over drinks, right? How 'bout it? Hell, let me buy ya a round, sonny.",
+    "answers": [
+      {
+        "answer": "Quit messing around.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "You're really paying?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm a minor.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "I also have loved ones who would miss me. You do catch my meaning, yes?",
+    "answers": [
+      {
+        "answer": "I do now.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "That doesn't matter.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm always alone.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I can't sadden my fans, ho. ...You catch my drift, don't you?",
+    "answers": [
+      {
+        "answer": "I'm rooting for you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Tell me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You have no fans.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I coulda been a star...",
+    "answers": [
+      {
+        "answer": "A star?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "That's not happening.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Are you giving up?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I don't hate you. No, I don't feel that way at all...",
+    "answers": [
+      {
+        "answer": "Is that so?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Too late.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Then let's hold hands.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I fear neither death, nor you.",
+    "answers": [
+      {
+        "answer": "In your situation?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're tough.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't push yourself.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "...I gotta ask. How do you work out?",
+    "answers": [
+      {
+        "answer": "I don't really train.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I just have a knack for it.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "At a gym from hell.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I guess women are really more social these days, finding so many fun things to do outside the home.",
+    "answers": [
+      {
+        "answer": "That's so true.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Men are social too.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Is that so?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I insist you surrender yourself to the authorities.",
+    "answers": [
+      {
+        "answer": "This is a misunderstanding.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I apologize.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "You've got the wrong idea.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I know when I'm gettin' all sweaty. I'm glistenin', ain't I?",
+    "answers": [
+      {
+        "answer": "Like a disco ball.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Not at all.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Why does that matter?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "I lost. Here I lay, at your feet, at your mercy. Just what do you want from me?",
+    "answers": [
+      {
+        "answer": "Give me something.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Grovel before me.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I don't know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I mean, how does it feel to wave your gun at an enemy who's completely lost the will to fight?",
+    "answers": [
+      {
+        "answer": "It's not bad.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "...I could get used to it.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It pains my heart...",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I need to recover, ho. Don't you feel that way too?",
+    "answers": [
+      {
+        "answer": "Yeah, sometimes.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Battle is what soothes me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Quit whining.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I occasionally wish to pamper myself as a reward for working hard. How would you do that?",
+    "answers": [
+      {
+        "answer": "Relax at home.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Go impulse shopping.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Don't be so selfish.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I suppose it makes no difference if you kill me or if I die just a little bit later, dearie.",
+    "answers": [
+      {
+        "answer": "That's right",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That isn't true",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's still a long ways off",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I suppose that's why I feel so confused, child. After all, why am I being treated like this?",
+    "answers": [
+      {
+        "answer": "Because you resisted.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It can't be helped.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's for your own good.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I suppose this \"real world\" where you come from must be fairly boring.",
+    "answers": [
+      {
+        "answer": "You're right.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It keeps me busy.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's better than here.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I think dying alone isn't so bad, dearie, but isn't living alone in the first place the real tragedy?",
+    "answers": [
+      {
+        "answer": "I don't think so.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Maybe you're right.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Being alone is a luxury.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I think the way you're treating me is \"overfamiliar.\" I think...",
+    "answers": [
+      {
+        "answer": "We are friends.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What's wrong with that?",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's because you're cute.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wanted to go on vacation, too, before all this happened...",
+    "answers": [
+      {
+        "answer": "That's too bad.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "What are you getting at?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You have a boyfriend?",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I was going to catch a great buy, live a life of celebrity... Where'd it all go wrong?",
+    "answers": [
+      {
+        "answer": "You did nothing wrong.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You dreamed too big.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's your personality.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wish I could see what kind of parents raised you to run loose and wreak havoc like this.",
+    "answers": [
+      {
+        "answer": "I'll introduce you to them later.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I won't show you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Leave my parents out of this.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wish they would leave us old people alone. After all, it's not like we have much time left.",
+    "answers": [
+      {
+        "answer": "I agree.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Speak for yourself.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "There's an aging boom...",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wonder how things might have been between us if cicumstances were different somehow.",
+    "answers": [
+      {
+        "answer": "We wouldn't have been enemies.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "We'd have gotten married.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing would've changed.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "I wonder how things might have been between us if circumstances had been different somehow?",
+    "answers": [
+      {
+        "answer": "We would have dated.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "We'd have gotten married.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing would've changed.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wonder if it's about time I quit this job.",
+    "answers": [
+      {
+        "answer": "Hang in there.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's a good idea.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "And then what?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I wonder if us speaking together like this now means that we are somehow connected...",
+    "answers": [
+      {
+        "answer": "It could be.",
+        "gloomy": "GOOD / OK",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No way.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's fate.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I would have never accepted this task if I knew it would involve this sort of suffering.",
+    "answers": [
+      {
+        "answer": "That's a pity...",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Uninformed choices are bad.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Complaining won't help.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If so, then won't you overlook this? Let's make a deal...",
+    "answers": [
+      {
+        "answer": "All right.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "A deal with the enemy?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can't trust you.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If that's the plan, well, you better make sure I'm satisfied.",
+    "answers": [
+      {
+        "answer": "Don't toy with me.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "You're not making sense.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "What would you like?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "If that's true, then I don't think there's any real point in killing me...",
+    "answers": [
+      {
+        "answer": "Of course, there's a point.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're right",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Then who's the real enemy?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If yer gonna kill me, do me a solid and make it quick.",
+    "answers": [
+      {
+        "answer": "Aren't you scared?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'll have some more fun first.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I won't make you suffer.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "If you ask me, it's a lot more fun ta go chasin' after younger ladies, but...",
+    "answers": [
+      {
+        "answer": "This is true.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's not very fun.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You dirty old man.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "If you capture me, what you going to do to me?",
+    "answers": [
+      {
+        "answer": "Take pride in capturing you",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Use you to decorate the hall",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Nothing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If your girlfriend asked if you wanted to have dinner with \"everybody\", what you you say?",
+    "answers": [
+      {
+        "answer": "Sure.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm busy.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If your girlfriend asked if you were free to have dinner with her \"friends\", what would you say?",
+    "answers": [
+      {
+        "answer": "Sure.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm busy.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "If your parents could see you now, I'm sure it would break their hearts...",
+    "answers": [
+      {
+        "answer": "You might be right...",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "This doesn't involve them.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Actually, they'd rejoice.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I'll go out with you just for today if there are no strings attached.",
+    "answers": [
+      {
+        "answer": "If it pleases you.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No strings attached?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I've got enough on my plate...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I'm a super popular Shadow, you hee-know. My fans won't just sit around and take this, ho.",
+    "answers": [
+      {
+        "answer": "Please forgive me.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Fans?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "So what?",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I'm busy, ho. It's tough being so popular.",
+    "answers": [
+      {
+        "answer": "You do sound busy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Your popularity won't last.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Who cares?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "I'm inclined to turn you down, but if you still wish to speak, I will perhaps consider it.",
+    "answers": [
+      {
+        "answer": "You have nothing I want.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Do you have time?",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Don't turn me down.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "I'm just putting this out there, but you wouldn't treat me this way if I were younger, right? ...It's true, isn't it?",
+    "answers": [
+      {
+        "answer": "It's not true.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Maybe.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Cougars are all the rage now.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...I'm not going to go easy on you for doing something like this, you know...",
+    "answers": [
+      {
+        "answer": "I'm sorry.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Prepare for the worst.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "How much do you want?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "I'm not the one you should want to shoot...",
+    "answers": [
+      {
+        "answer": "You've got a point there...",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Not necessarily.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Anyone will do.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I'm sure a miracle's gonna happen to me, right?",
+    "answers": [
+      {
+        "answer": "Miracles don't exist.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'd be jealous if it did.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm waiting.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I'm sure there're other people in the world who'd irritate you more. C'mon, tell me.",
+    "answers": [
+      {
+        "answer": "Older people trying to look young.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No one bothers me.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I hate everyone.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I'm thinking that maybe I should act more grandmotherly. How can I go ahead and do that for you?",
+    "answers": [
+      {
+        "answer": "Make me a homemade meal.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Scold me every so often.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You don't have to do anything.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I'm tired of being a kid. Didn't you feel that way when you were little, too?",
+    "answers": [
+      {
+        "answer": "Sure did.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Not really.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I want to be a kid forever.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "I'm well-connected, okay? I know some people that are pretty complicated.",
+    "answers": [
+      {
+        "answer": "I want to meet them.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Complicated...?",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Liar.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "In the end, killin' me's just a waste of yer time and energy. You get what I'm sayin', right?",
+    "answers": [
+      {
+        "answer": "When you put it that way...",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's not a waste.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Enemies must be eliminated.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is it because I'm not acting mature enough? Like, what the heck makes someone mature, anyway?",
+    "answers": [
+      {
+        "answer": "Being old enough to drink.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Paying your own rent.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Questioning maturity.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Is it 'cause I wasn't a \"good kid\"?",
+    "answers": [
+      {
+        "answer": "Yes.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It has nothing to do with this.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Is it just me, or does something stink?",
+    "answers": [
+      {
+        "answer": "It's just you.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's coming from you.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I smell a lie.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Is it not a breeding ground for impudent humans? How do you view this world of yours?",
+    "answers": [
+      {
+        "answer": "Full of corrupt adults.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Plenty of places to shop.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Looks normal to me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is it not possible for this series of events involving you and me to be attributed to that?",
+    "answers": [
+      {
+        "answer": "Fair enough.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "That is incorrect.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD / OK"
+      },
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is it okay if I get mad right now?",
+    "answers": [
+      {
+        "answer": "Do it.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Please don't.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're so cute.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Is it only for men? Where did you get it?",
+    "answers": [
+      {
+        "answer": "Do you want it?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Internet shopping.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's not available for sale.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is it scary to get a shot? Does it make you cry, mister?",
+    "answers": [
+      {
+        "answer": "I did.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I endure it.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I like shots.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is there a reason why I just can't beat you?",
+    "answers": [
+      {
+        "answer": "I'm younger, that's all.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I've totally got girl power.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Figure it out yourself.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Is there really any benefit for me if I joined with you?",
+    "answers": [
+      {
+        "answer": "I think there is.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I can't promise that.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's a matter of feeling.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Isn't that just like when a human woman gets married and moves in with her husband?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I love someone else.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Isn't that kinda... outdated thinking?",
+    "answers": [
+      {
+        "answer": "Yea.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No way.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's for your own good.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Isn't that kinda... outdated thinking?",
+    "answers": [
+      {
+        "answer": "Sorry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's for your own good.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's timeless.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "It is to become aware of the gaze of our Father, who watches over you with loving grace.",
+    "answers": [
+      {
+        "answer": "I don't understand.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I feel his gaze.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I prefer a harsher stare.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "It look like you corner me... But how me know this not trick? How me know you really winning?",
+    "answers": [
+      {
+        "answer": "Because it's the truth.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's a lie.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "It seems the Son of Man have denounced the word of our father. Tell me, what worth have you found?",
+    "answers": [
+      {
+        "answer": "I noticed.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can survive alone.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Find it for me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "It'd prolly be a big downer if the birthday boy didn't show to his party, sooo...",
+    "answers": [
+      {
+        "answer": "Happy birthday.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I had no idea.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "This'll be your deathday too.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "It's clichéd, but we could talk about life... Ask each other things like what sort of girls we're into...",
+    "answers": [
+      {
+        "answer": "I like older women.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No preference.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I like men.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...It's fine. Do as you please.",
+    "answers": [
+      {
+        "answer": "I need your help.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Lick my boots.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Are you sure it's fine?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "It's hard to tell under the mask, but... you're actually handsome, aren't you?",
+    "answers": [
+      {
+        "answer": "How did you know?",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No, not all.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I look ok, I guess.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "It's no fun going home when only my annoying mom and dad are there.",
+    "answers": [
+      {
+        "answer": "Parents are annoying.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You should love your parents.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Why not come to my place?",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "It's pretty rude, man.",
+    "answers": [
+      {
+        "answer": "No it isn't.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's part of my face.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "My apologies.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "I've been projecting a \"don't speak to me\" aura towards you.",
+    "answers": [
+      {
+        "answer": "I noticed.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I didn't feel an \"aura.\"",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "But we may never meet again.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "I've heard that love can bloom anywhere, even on a battlefield. Don't you think that's possible?",
+    "answers": [
+      {
+        "answer": "Can it?",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Definitely not.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What are you saying?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Just thinkin' about hierarchy, you should be showin' me a little more respect, shouldn't you?",
+    "answers": [
+      {
+        "answer": "You're right, Senpai.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I never thought about it.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I prefer mutual respect.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Know how they say, \"Be kind ta yer elders\"? Has no one ever taught ya that?",
+    "answers": [
+      {
+        "answer": "Someone did once.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't care.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I don't want to grow old.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Let me hear you utter words of repentance.",
+    "answers": [
+      {
+        "answer": "Sorry.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "\"Words of repentance.\"",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Not sorry.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Life's nothing but pain anyways. Just do whatever you want.",
+    "answers": [
+      {
+        "answer": "You should have stayed home.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You won't die easily.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't get desperate.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Man, I'm about ta be a victim of that too. Hell, does this country even have a future?",
+    "answers": [
+      {
+        "answer": "It does.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Don't expect it.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "The elderly have bad manners.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Maybe I should try something new! I don't want to fall into mediocrity, ho...",
+    "answers": [
+      {
+        "answer": "You're fine as is.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Your act is a bit stale...",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Time for a makeover.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Maybe I'll call the police. Maybe I'll tell 'em that you were worse than you actually were!",
+    "answers": [
+      {
+        "answer": "Call them. I dare you.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Forgive me.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It was self-defense.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Maybe kids got spanked a long time ago, but people don't do that anymore, right?",
+    "answers": [
+      {
+        "answer": "I didn't know that.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You need a good spanking.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Some things are timeless.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Me am really in soup, now. Do what you want. Me am ready if you want grill me, so...",
+    "answers": [
+      {
+        "answer": "I'll make you into soup.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't want to eat you.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'll mince you.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Me guessing you have power that me not have. But what is it...?",
+    "answers": [
+      {
+        "answer": "Academics.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Empathy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Girl power.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Me not curse you, but me curse your commander! Me curse the one who order you...!",
+    "answers": [
+      {
+        "answer": "This was my choice.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Fighting me is bad luck.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Just try to escape.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Me not understand in what way you superior to me...",
+    "answers": [
+      {
+        "answer": "Youthfulness.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Cuteness.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Luckiness.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Me really want to eat something.",
+    "answers": [
+      {
+        "answer": "Do not mock me.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Same goes for me",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Want something delivered?",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Me want to ask some recommendations, so me can at least imagine.",
+    "answers": [
+      {
+        "answer": "Bread soaked in coffee.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't have any.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Hunger is the best ingredient.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Me want you to give me some nice \"words of compassion\"-as my rival- as me pass away...!",
+    "answers": [
+      {
+        "answer": "Die in peace.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Why show mercy to my enemy?",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "...I got nothing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "My chest is beating so fast. What is this feeling?",
+    "answers": [
+      {
+        "answer": "Are you alright?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're making it up.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's love.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "My horoscope said I was going to have \"relationship difficulties\" today.",
+    "answers": [
+      {
+        "answer": "Looks like it came true.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's just a horoscope.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "How is your luck in romance?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "My only choice now... is to retire, ho.",
+    "answers": [
+      {
+        "answer": "That's too far.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "What are your plans?",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You had a good run...",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "No matter the crime, humans treat it more lightly if the perpetrator is a minor, do they not? Ah, so I suppose you commit such extreme acts because you know you won't be punished harshly…",
+    "answers": [
+      {
+        "answer": "I'm sorry.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Age doesn't matter.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "This isn't extreme.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Now, people don't even know who lives next door to them. Shouldn't we know our neighbors better?",
+    "answers": [
+      {
+        "answer": "It's saddening.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't really think about it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Privacy is important.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Oh, they're so self-assured that they'll be so successful in the future. Are you like that, child?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's not true.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What's wrong with that?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Ooh, what if this leaves a scar and it's permanent?",
+    "answers": [
+      {
+        "answer": "Sorry...",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Just get plastic surgery.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'll take responsibility.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Out of respect for our Father, let us take a moment's respite...",
+    "answers": [
+      {
+        "answer": "If it's what you want.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "What are you telling me?",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm a minor.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Seriously, cosplaying in a place like this? Are you just bored outta your mind?",
+    "answers": [
+      {
+        "answer": "I am.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm actually very busy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Shut up!",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "She said, \"I'll buy it for you on the way home,\" but she didn't but it for me! Isn't that not fair?",
+    "answers": [
+      {
+        "answer": "It's unfair.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's your fault for being tricked.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Be more persistent.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "She said, \"I'll buy it for you on the way home,\" but she didn't buy it for me! That's SO unfair, right?!",
+    "answers": [
+      {
+        "answer": "That's not fair.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's your fault for being tricked.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I'll buy it for you.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...So, I'm sorry, but can I go and fix my bangs first?",
+    "answers": [
+      {
+        "answer": "Quit joking around.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're fine as you are.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's pointless.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "So... I'm sorry, but can I go and fix my bangs first?",
+    "answers": [
+      {
+        "answer": "Quit joking around.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're fine as you are.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's pointless.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "So me am going to haunt you for the rest of your life. Me always right behind you...",
+    "answers": [
+      {
+        "answer": "That would be troublesome.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I could carry that weight.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't get it...",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...So uh, instead of killin' me, you started chattin' with me... You tryin' to get somethin' from me?",
+    "answers": [
+      {
+        "answer": "Yup.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "No... Nothing at all...",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Dance for me!",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "...So? What's going to happen to me now?",
+    "answers": [
+      {
+        "answer": "You'll be killed.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What do you want to happen?",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's a secret.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "So? What's gonna happen to me?",
+    "answers": [
+      {
+        "answer": "I'll make mincemeat of you.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll play nice.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll be your dominatrix.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "So who're you tryin' to impress with that mask?",
+    "answers": [
+      {
+        "answer": "Nobody.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Shuddup...",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm actually still young...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "So why me in this situation right now? Why me at your mercy?",
+    "answers": [
+      {
+        "answer": "Times have changed.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Humans are powerful.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "This is a difficult topic...",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "So... You enjoy teasing older women like this?",
+    "answers": [
+      {
+        "answer": "I had no intention.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It is fun, actually.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm serious.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Some old people refuse to make use of special seats reserved for the elderly. What do you think of that?",
+    "answers": [
+      {
+        "answer": "No problem with it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "They shouldn't push themselves.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "They must be young inside.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Somethin' bad happen in yer life or somethin', sonny?",
+    "answers": [
+      {
+        "answer": "It's not like that.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I got bad luck.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Something about people putting honey on cucumbers to feel like they're eating fancy cantaloupe?",
+    "answers": [
+      {
+        "answer": "I follow those tips.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's depressing.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Never heard of that.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Sorry, but I want you to go hee-home now. I'm already feeling so tired and weary, ho...",
+    "answers": [
+      {
+        "answer": "Sorry.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You go home.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Taking that into consideration, do you still want me?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I didn't think that far.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "The feelings will come.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Tell me, what does \"equal footing\" mean to you?",
+    "answers": [
+      {
+        "answer": "Not talking down to people.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Sharing household chores.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Splitting all the costs.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "That is to say, we are brothers. There is no reason for us to fight.",
+    "answers": [
+      {
+        "answer": "Leave my parents out of this.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "You may be right.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "But you're a Shadow.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "That power, it originates from our Father. Thus, is it not reasonable to repay him for the favor?",
+    "answers": [
+      {
+        "answer": "I never considered it.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "This power is all mine.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "That's wack, man. Maybe you should get your head checked out.",
+    "answers": [
+      {
+        "answer": "I probably should.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Now way.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm going feral!",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "...The least I can do is extend this small mercy. Name a calamity you can bear.",
+    "answers": [
+      {
+        "answer": "Make it crowded where I shop.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Give me violence.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No calamities, please.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "The truth is... You're a good person, aren't you?",
+    "answers": [
+      {
+        "answer": "I get that a lot.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Actually... I'm bad.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Are you mocking me?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "The way you treat me, though, is giving me mixed messages. How to you really feel about me?",
+    "answers": [
+      {
+        "answer": "You're beautiful.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're scary.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing in particular.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "There something you want say to me, right?",
+    "answers": [
+      {
+        "answer": "I want you.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Not really.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Let me touch your paw.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "They always give the guy a katsudon! You got anything like that for me!?",
+    "answers": [
+      {
+        "answer": "Katsudon, coming right up.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm the interrogator here.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I have nothing for you.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "They wear sleeveless shirts in the winter, right? What do you think about that, dearie?",
+    "answers": [
+      {
+        "answer": "It's what's in.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's horrible.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't care.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Think carefully. I am not the one you should detest.",
+    "answers": [
+      {
+        "answer": "You're right.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's absurd.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I’ll be the judge of that.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Think carefully. I cannot be destroyed. Desist from this pointlessness.",
+    "answers": [
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's absurd.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Then I shall desist.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "This is all some kind of TV thing, hee-ho! Where's the camera?",
+    "answers": [
+      {
+        "answer": "Wow, you got me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What's all this now?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "This is real.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "This is that \"domestic violins\" thing, right?",
+    "answers": [
+      {
+        "answer": "That's \"domestic violence.\"",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What? No, you're wrong...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Um, are things okay at home?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "To tell you the hee-truth, this is all an act, ho. What do you think I'm really like, ho?",
+    "answers": [
+      {
+        "answer": "I can't image it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't care.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're fine as is.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "To view me as an enemy is to incur our Father's wrath. Man's future rests in your hands.",
+    "answers": [
+      {
+        "answer": "Leave the future to me.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I need your guidance.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't get it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Today I have what you humans call a girl's night out.",
+    "answers": [
+      {
+        "answer": "Quit messing with me.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Should I go instead?",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Girls...?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "...Um, this has been buggin' me for a while, but... Is it me, or does something stink?",
+    "answers": [
+      {
+        "answer": "It's just you.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's coming from you.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I smell a lie.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Um, why're you going' for me? Ain't there worse people out there? What kind of guys piss you off?",
+    "answers": [
+      {
+        "answer": "Slow walkers.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Loud talkers...",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Nobody.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Very well. In the place of our Father, I shall listen to your complaints.",
+    "answers": [
+      {
+        "answer": "Why can't we end war?",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No complaints here.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I can't get a girlfriend.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Vow that you will use that power in the name of our Father.",
+    "answers": [
+      {
+        "answer": "I'll think about it.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No need to be so dramatic.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I decline.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Well, I need to see myself home soon...",
+    "answers": [
+      {
+        "answer": "Go home then.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What do you mean?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Let's go home together.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Well, I'm still here... That guy is really keeping me waiting.",
+    "answers": [
+      {
+        "answer": "Life isn't like fairy tales.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Just wait a little longer.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "You'll never meet him.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "We'll just say you win. So can we stop this?",
+    "answers": [
+      {
+        "answer": "I feel bad.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't agree with this.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Everyone wins.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Well, quite frankly... No one wants you here. You do understand that, right?",
+    "answers": [
+      {
+        "answer": "I know.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I didn't know that.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Who cares?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What are we gonna do, huh?",
+    "answers": [
+      {
+        "answer": "Tag.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK/BAD?"
+      },
+      {
+        "answer": "I don't feel like playing.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Cruise for chicks.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What did I do to deserve this?",
+    "answers": [
+      {
+        "answer": "It's karma for your evil deeds.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Don't play the victim.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing in particular.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What did you want, coming all the way to a place like this?",
+    "answers": [
+      {
+        "answer": "A thrilling adventure.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "A treasure hunt.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Slaughter.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What do ya usually eat?",
+    "answers": [
+      {
+        "answer": "Curry.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "All sorts of things.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Protein.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What do you hope to accomplish by injuring me further...?",
+    "answers": [
+      {
+        "answer": "More sleep.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Popularity.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "There's no end if I start.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What do you think about humans showing pictures of their baby to others?",
+    "answers": [
+      {
+        "answer": "It's cute.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not interested.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "What are you talking about?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What do you think I should wear? I admit it, I wanna draw some attention to myself.",
+    "answers": [
+      {
+        "answer": "High School uniform.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "A Kimono.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't wear anything.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "What has brought you to a place like this? What are you seeking?",
+    "answers": [
+      {
+        "answer": "An adventure.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing, really.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "A killing spree.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What if I was a human? Then, what you're doing... well, it'd be a criminal act!",
+    "answers": [
+      {
+        "answer": "That's true...",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "That can't be true.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's irrelevant.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What in the hell are ya tryin' ta tell me, anyway?",
+    "answers": [
+      {
+        "answer": "You're going to die.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Why do we fight?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't really know...",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "What is irritating you so much?",
+    "answers": [
+      {
+        "answer": "Rotten adults.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Egotistical women.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not irritated.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What kinda \"fate\" do ya think there is in this meetin' between me and you?",
+    "answers": [
+      {
+        "answer": "Fate brought us together.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "There is no such thing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I want to end this fate.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What kinda \"hospitality\" will you show me at the end of my life?",
+    "answers": [
+      {
+        "answer": "You won't suffer long.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "A coupon for a massage by me.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'll be at your side until the end.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What kinda guys piss you off?",
+    "answers": [
+      {
+        "answer": "Pissy guys.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Guys with no sense of humor.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I never get mad.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "What was that, anyway?",
+    "answers": [
+      {
+        "answer": "A love letter.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "A threat letter.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "A coupon.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What was... the cause of my defeat?",
+    "answers": [
+      {
+        "answer": "Your lack of resolve.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Just bad luck.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not telling.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "What you thinking now?",
+    "answers": [
+      {
+        "answer": "How to negotiate..",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Nothing.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "How can I get popular?",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What're you gonna tell your kids about this shit?",
+    "answers": [
+      {
+        "answer": "It was a hard-fought battle.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It was an easy win.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll forget it happened.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What's it like to be all kissy face with somebody?",
+    "answers": [
+      {
+        "answer": "It's incredible...",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I shouldn't tell you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Ask your parents.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "What's wrong with the way I look, huh?",
+    "answers": [
+      {
+        "answer": "You tempt people.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're ugly.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Nothing's wrong.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "When I was young, I could make anyone back off-if they were smart enough-with just my glare.",
+    "answers": [
+      {
+        "answer": "That's so neat.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm just that good.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You've grown old.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "When it came right down to it, you couldn't do anything to me!",
+    "answers": [
+      {
+        "answer": "I could.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "How could you tell?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What do you want me to do?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "When you eat curry, mister, what do you like to add?",
+    "answers": [
+      {
+        "answer": "Soy sauce.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Worcestershire sauce.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't add anything.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "When you were little, what did you wanna be when you grow up?",
+    "answers": [
+      {
+        "answer": "A pro athlete.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I had no dream.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "A winner in society.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Where do babies come from?",
+    "answers": [
+      {
+        "answer": "Storks deliver them.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Ask your parents.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "The love between two people.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Where should I go? I want something yummy, ho!",
+    "answers": [
+      {
+        "answer": "A place with no wait.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "A place with western toilets.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You won't survive.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Who the blazes do you think you are?",
+    "answers": [
+      {
+        "answer": "I feel bad about that.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm ME!",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't owe you an answer.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Why are you so interested in me, anyway?",
+    "answers": [
+      {
+        "answer": "If it pleases you.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "[…]",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "[…]",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Why did you come to this dangerous place? Isn't it safer in the real world?",
+    "answers": [
+      {
+        "answer": "I've got business here.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm here for the loot.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Just 'cause.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Why do they like \"making out\"?",
+    "answers": [
+      {
+        "answer": "How should I know?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can't tell you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Ask your parents.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Why have you decided to be more communicative with me?",
+    "answers": [
+      {
+        "answer": "Your looks.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You seemed useful.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No particular reason.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Why you come all the way here?",
+    "answers": [
+      {
+        "answer": "For a treasure hunt.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "For girls.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I just felt like it.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Why you fight and put yourself in harm's way?",
+    "answers": [
+      {
+        "answer": "I want to get stronger.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Because I see an enemy.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I don't actually know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Why you keep trampling here? What you humans thinking?",
+    "answers": [
+      {
+        "answer": "I'm sorry.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Should I take off my shoes?",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Why you not care for me like that? Why you treat me like this, then?",
+    "answers": [
+      {
+        "answer": "You look scary.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I want to cherish you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You're not a beast.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "Why you wear mask to fight, anyway?",
+    "answers": [
+      {
+        "answer": "I care about my looks.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It keeps my foes' blood off.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "-"
+      },
+      {
+        "answer": "That's what I want to know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Why're you so desperate?",
+    "answers": [
+      {
+        "answer": "I don't want to die.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "There's something I must do.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I want girls to like me.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Won't you just leave me be?",
+    "answers": [
+      {
+        "answer": "Fine, I will.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I can't just leave you.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Is that reverse psychology?",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Would you be willing to spend time and money to see people you haven't contacted for years?",
+    "answers": [
+      {
+        "answer": "I suppose so.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Sounds like a drag.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No one invites me to reunions.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "Would you do to anyone else what you're doing to me now?",
+    "answers": [
+      {
+        "answer": "I sure would.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No, I wouldn't.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "This is a special exception.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "Wouldn't your girlfriend get jealous if she could see us?",
+    "answers": [
+      {
+        "answer": "No need to worry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's only bad if I get caught.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't have a girlfriend.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "Y'know, if I'm gonna be killed, I'd rather be offed by a beautiful, classy lady.",
+    "answers": [
+      {
+        "answer": "Sorry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "You don't get to be picky.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's all the same.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "...Y'know what I'm gettin' at, right? Ya think ya could let me go see my girl?",
+    "answers": [
+      {
+        "answer": "Nope.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'll consider it.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What kind of girl is she?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You better enjoy and be drunk on victory while you can. It not last long.",
+    "answers": [
+      {
+        "answer": "I'll just keep winning.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're just a sore loser.",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I can't drink, I'm underage.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You carry a gun because you think it'll make you more popular with the girls?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It won't?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's for self-improvement.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You didn't stray from the path or get lost?",
+    "answers": [
+      {
+        "answer": "I downloaded an app.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Well, I got a little lost.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't remember.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You do realize it's useless to go waving that thing around aimlessly.",
+    "answers": [
+      {
+        "answer": "I know.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't act so tough.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Not as useless as you.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You do understand that we are here because of people like you, right?",
+    "answers": [
+      {
+        "answer": "I never thought of that.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I understand.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "What do you mean?",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "You given much thought, what if you go to place where you could die at any moment?",
+    "answers": [
+      {
+        "answer": "I've thought about it.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't want kids.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not comfortable with this.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "You go back to your mother's arms. You need take nap now.",
+    "answers": [
+      {
+        "answer": "I'm not that young.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm not sleepy.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "After I'm done with this.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You had something you lost, and you not know how important it was until after it gone, right?",
+    "answers": [
+      {
+        "answer": "My pal who switched schools.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "My ex-girlfriend...",
+        "gloomy": "BAD💢",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "Quiet, I'm killing you now.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You have appeared to test my adoration of our Father. Yes, you are... the Tempter",
+    "answers": [
+      {
+        "answer": "You got me.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're mistaken.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Are you okay?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You have wishes you not can let go of, even after you die?",
+    "answers": [
+      {
+        "answer": "Everyone's happiness.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "A grand funeral.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I won't die.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "You, however are talking to me right here. Are you the exception to this rule?",
+    "answers": [
+      {
+        "answer": "I'm not special.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "That's right.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I have ulterior motives.",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You knocked me down, and now my goddamn watch is broken!",
+    "answers": [
+      {
+        "answer": "My apologies.",
+        "gloomy": "BAD💢",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Like I care.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "You should \"watch\" your mouth.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You know, a mascot's life isn't hee-easy. Are you sure you could handle all the adversity, ho?",
+    "answers": [
+      {
+        "answer": "I'm ready for it.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What kind of adversity?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "You're a mascot?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You know, if I were to whip something up for you, what would you want?",
+    "answers": [
+      {
+        "answer": "Meat and potatoes.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I don't need homemade food.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Can you actually cook?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "You know, if you're willin' to let this go... I'll make it worth your while.",
+    "answers": [
+      {
+        "answer": "Worth my while?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No, thanks.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I already get enough, actually.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You must be one of those delinquents I hear about. Do you have poor grades in school?",
+    "answers": [
+      {
+        "answer": "I'm a straight-A student.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "They're not great...",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "At least I'm popular.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You new? Did you get hee-hired, ho?",
+    "answers": [
+      {
+        "answer": "Yeah! Nice you meetcha!",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm a transfer student.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You not worry you get in trouble if those groups hear what you are doing to me?",
+    "answers": [
+      {
+        "answer": "That's true.",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I don't mind.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's for love.",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You were so sure of yourself, so it's embarrassing now to admit you're struggling here. Right?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Don't make fun of me.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You, who reside in that world of the almighty, what is it that has beleaguered you so?",
+    "answers": [
+      {
+        "answer": "Omnipotent?",
+        "gloomy": "-",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm not beleaguered.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "There's someone I want to save.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You will receive punishment for treating me this way, mark my words.",
+    "answers": [
+      {
+        "answer": "I'm sorry.",
+        "gloomy": "OK💦",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "I'm prepared for the worst.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "How much do you want?",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You'd have no idea I was about to use my ultimate move.",
+    "answers": [
+      {
+        "answer": "For real!?",
+        "gloomy": "GOOD🎶",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "That's worrying...",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "...Try me.",
+        "gloomy": "OK💦",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You'll have a bleak future if you spend too much time running around pretending to be a phantom thief.",
+    "answers": [
+      {
+        "answer": "Thank you.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "GOOD🎶",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Don't worry about it.",
+        "gloomy": "GOOD🎶",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "It's worth it.",
+        "gloomy": "-",
+        "irritable": "OK💦",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You'll probably break down in tears when you see my angry face. I'm a real monstrosity, ho!",
+    "answers": [
+      {
+        "answer": "That's scary...",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I would never cry.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "I want to see your fury.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "You're a big bully! don't you think that's \"immature\"?",
+    "answers": [
+      {
+        "answer": "Now that you mention it...",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "No, I don't think so.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm not mature anyway.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  },
+  {
+    "question": "You're hitting on me, right? Don't you think you're totally doing it wrong?",
+    "answers": [
+      {
+        "answer": "Nothing wrong about it.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "What's the right way, then?",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm not hitting on you.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You're lucky it was just me. You can't do anything like this in the real world, right?",
+    "answers": [
+      {
+        "answer": "That's right.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I choose my targets carefully.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I'm serious about this.",
+        "gloomy": "-",
+        "irritable": "GOOD🎶",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You're showing off your strength to me, aren't you? I total-hee read your mind, ho.",
+    "answers": [
+      {
+        "answer": "You're misunderstanding.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "The hell are you saying?",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      },
+      {
+        "answer": "Make me your apprentice.",
+        "gloomy": "OK💦",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "-"
+      }
+    ]
+  },
+  {
+    "question": "You're s'posed to go easy on kids! Are you stupid? Do you go to school and get stupid grades?",
+    "answers": [
+      {
+        "answer": "I'm smart.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "I'm good at PE.",
+        "gloomy": "GOOD🎶",
+        "irritable": "BAD💢",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "Shut up.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "OK💦"
+      }
+    ]
+  },
+  {
+    "question": "You're violatin' the weapons code or whatever, man.",
+    "answers": [
+      {
+        "answer": "I didn't know.",
+        "gloomy": "GOOD🎶",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "OK💦"
+      },
+      {
+        "answer": "It's for self-defense.",
+        "gloomy": "BAD💢",
+        "irritable": "GOOD🎶",
+        "timid": "OK💦",
+        "upbeat": "BAD💢"
+      },
+      {
+        "answer": "Pretty cool, huh?",
+        "gloomy": "OK💦",
+        "irritable": "BAD💢",
+        "timid": "OK💦",
+        "upbeat": "GOOD🎶"
+      }
+    ]
+  },
+  {
+    "question": "...You've come from some other company to scout me-hee out. There's no mistaking it, ho!",
+    "answers": [
+      {
+        "answer": "You got me.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "GOOD🎶",
+        "upbeat": "GOOD🎶"
+      },
+      {
+        "answer": "It's a misunderstanding.",
+        "gloomy": "-",
+        "irritable": "-",
+        "timid": "BAD💢",
+        "upbeat": "-"
+      },
+      {
+        "answer": "I've come to finish you off.",
+        "gloomy": "BAD💢",
+        "irritable": "-",
+        "timid": "-",
+        "upbeat": "BAD💢"
+      }
+    ]
+  }
+]
