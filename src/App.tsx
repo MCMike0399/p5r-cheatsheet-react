@@ -143,32 +143,46 @@ const DataProvider = ({ children }: { children: ReactNode }) => {
 
     const searchTextLower = searchText.toLowerCase();
 
-    return confidants.filter((confidant) => {
-      // Check if confidant name contains the search term
-      if (confidant.name.toLowerCase().includes(searchTextLower)) {
-        return true;
-      }
-
-      // Check if any rank contains the search term
-      return confidant.ranks.some((rank) => {
-        // Check if rank contains the search term
-        if (rank.rank.toLowerCase().includes(searchTextLower)) {
-          return true;
-        }
-
-        // Check if any response contains the search term
-        return rank.responses.some((response) => {
-          if (response.response.toLowerCase().includes(searchTextLower)) {
+    return confidants
+      .map((confidant) => {
+        // Filter ranks to only include those containing the search term
+        const filteredRanks = confidant.ranks.filter((currentRank) => {
+          // Check if rank name contains the search term
+          if (currentRank.rank.toLowerCase().includes(searchTextLower)) {
             return true;
           }
 
-          // Check if any value contains the search term
-          return response.values.some((value) =>
-            value.toLowerCase().includes(searchTextLower)
-          );
+          // Check if any response contains the search term
+          return currentRank.responses.some((response) => {
+            if (response.response.toLowerCase().includes(searchTextLower)) {
+              return true;
+            }
+
+            // Check if any value contains the search term
+            return response.values.some((value) =>
+              value.toLowerCase().includes(searchTextLower)
+            );
+          });
         });
-      });
-    });
+
+        // If there are filtered ranks, return a modified confidant with only those ranks
+        if (filteredRanks.length > 0) {
+          return {
+            ...confidant,
+            ranks: filteredRanks,
+          };
+        }
+
+        // If no ranks match, check if confidant name contains search term
+        // In that case, include the confidant with all its ranks
+        if (confidant.name.toLowerCase().includes(searchTextLower)) {
+          return confidant;
+        }
+
+        // Otherwise, return null to filter out this confidant
+        return null;
+      })
+      .filter((confidant): confidant is Confidant => confidant !== null);
   };
 
   const filteredNegotiations = (searchText: string): Negotiation[] => {
