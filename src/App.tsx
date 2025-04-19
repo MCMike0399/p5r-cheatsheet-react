@@ -259,16 +259,20 @@ const SearchBar = ({ searchText, setSearchText }: SearchBarProps) => {
 // ConfidantResponse Component
 interface ConfidantResponseProps {
   response: ConfidantResponse;
+  isOpen: boolean;
+  toggleResponse: () => void;
 }
 
-const ConfidantResponse = ({ response }: ConfidantResponseProps) => {
-  const [isOpen, setIsOpen] = useState<boolean>(false);
-
+const ConfidantResponse = ({
+  response,
+  isOpen,
+  toggleResponse,
+}: ConfidantResponseProps) => {
   return (
     <div className="mb-2">
       <div
         className="flex justify-between items-center p-2 bg-gray-800 rounded cursor-pointer hover:bg-gray-700"
-        onClick={() => setIsOpen(!isOpen)}
+        onClick={toggleResponse}
       >
         <span className="font-medium text-gray-200">{response.response}</span>
         {isOpen ? (
@@ -297,12 +301,50 @@ interface ConfidantRankProps {
 }
 
 const ConfidantRank = ({ rank }: ConfidantRankProps) => {
+  const [openResponses, setOpenResponses] = useState<Record<number, boolean>>(
+    {}
+  );
+
+  const toggleResponse = (index: number) => {
+    setOpenResponses((prev) => ({
+      ...prev,
+      [index]: !prev[index],
+    }));
+  };
+
+  const toggleAllResponses = () => {
+    // Check if all responses are open
+    const allOpen = rank.responses.every((_, index) => openResponses[index]);
+
+    // Create a new state object with all responses set to the opposite of allOpen
+    const newState: Record<number, boolean> = {};
+    rank.responses.forEach((_, index) => {
+      newState[index] = !allOpen;
+    });
+
+    setOpenResponses(newState);
+  };
   return (
     <div className="mb-4">
-      <h3 className="text-blue-400 font-semibold mb-2">{rank.rank}</h3>
+      <div className="flex justify-between items-center mb-2">
+        <h3 className="text-blue-400 font-semibold">{rank.rank}</h3>
+        <button
+          onClick={toggleAllResponses}
+          className="text-sm px-3 py-1 bg-blue-600 text-white rounded hover:bg-blue-700"
+        >
+          {rank.responses.every((_, index) => openResponses[index])
+            ? "Collapse All"
+            : "Expand All"}
+        </button>
+      </div>
       <div className="pl-2">
         {rank.responses.map((response, index) => (
-          <ConfidantResponse key={index} response={response} />
+          <ConfidantResponse
+            key={index}
+            response={response}
+            isOpen={!!openResponses[index]}
+            toggleResponse={() => toggleResponse(index)}
+          />
         ))}
       </div>
     </div>
