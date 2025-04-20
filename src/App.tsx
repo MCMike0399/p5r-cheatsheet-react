@@ -309,9 +309,14 @@ const DataProvider = ({ children }: { children: ReactNode }) => {
             return true;
          }
 
-         // Check if any answer contains the search term
-         return negotiation.answers.some((answer) =>
-            answer.answer.toLowerCase().includes(searchTextLower)
+         // Check if any answer or personality response contains the search term
+         return negotiation.answers.some(
+            (answer) =>
+               answer.answer.toLowerCase().includes(searchTextLower) ||
+               answer.gloomy.toLowerCase().includes(searchTextLower) ||
+               answer.irritable.toLowerCase().includes(searchTextLower) ||
+               answer.timid.toLowerCase().includes(searchTextLower) ||
+               answer.upbeat.toLowerCase().includes(searchTextLower)
          );
       });
    };
@@ -1039,6 +1044,18 @@ const AppContent = () => {
       isLoading,
    } = useData();
 
+   const filteredCrosswords = (searchText: string): CrosswordItem[] => {
+      if (!searchText || searchText.length < 4) return [];
+
+      const searchTextLower = searchText.toLowerCase();
+
+      return crosswordData.filter(
+         (item) =>
+            item.clue.toLowerCase().includes(searchTextLower) ||
+            item.answer.toLowerCase().includes(searchTextLower)
+      );
+   };
+
    // Handle search text state
    const handleSearchTextChange = (text: string) => {
       setSearchText(text);
@@ -1046,11 +1063,26 @@ const AppContent = () => {
       if (text.length >= 4) {
          const confResults = filteredConfidants(text);
          const negResults = filteredNegotiations(text);
+         const crossResults = filteredCrosswords(text);
 
-         if (confResults.length > 0 && negResults.length === 0) {
+         if (
+            confResults.length > 0 &&
+            negResults.length === 0 &&
+            crossResults.length === 0
+         ) {
             setActiveTab("confidants");
-         } else if (negResults.length > 0 && confResults.length === 0) {
+         } else if (
+            negResults.length > 0 &&
+            confResults.length === 0 &&
+            crossResults.length === 0
+         ) {
             setActiveTab("negotiations");
+         } else if (
+            crossResults.length > 0 &&
+            confResults.length === 0 &&
+            negResults.length === 0
+         ) {
+            setActiveTab("misc");
          }
       }
    };
@@ -1087,6 +1119,7 @@ const AppContent = () => {
          const filtered = {
             confidants: filteredConfidants(searchText),
             negotiations: filteredNegotiations(searchText),
+            crosswords: filteredCrosswords(searchText),
          };
 
          return (
@@ -1094,7 +1127,8 @@ const AppContent = () => {
                <h2 className="text-xl font-bold mb-3">Search Results</h2>
 
                {filtered.confidants.length === 0 &&
-               filtered.negotiations.length === 0 ? (
+               filtered.negotiations.length === 0 &&
+               filtered.crosswords.length === 0 ? (
                   <div className="flex justify-center items-center h-32">
                      <div className="text-xl text-gray-400">
                         No results found
@@ -1127,6 +1161,48 @@ const AppContent = () => {
                               negotiations={filtered.negotiations}
                            />
                         </div>
+                     )}
+                     {filtered.crosswords.length > 0 && (
+                        <>
+                           {filtered.crosswords.length > 0 && (
+                              <div className="mb-6">
+                                 <h2 className="text-2xl font-bold text-gray-100 mb-4">
+                                    Crosswords
+                                 </h2>
+                                 <div className="bg-black rounded-lg shadow-lg overflow-hidden">
+                                    <table className="w-full border-collapse">
+                                       <thead className="bg-gray-800">
+                                          <tr>
+                                             <th className="p-3 text-left text-gray-200">
+                                                Clue
+                                             </th>
+                                             <th className="p-3 text-left text-gray-200 w-1/3">
+                                                Answer
+                                             </th>
+                                          </tr>
+                                       </thead>
+                                       <tbody>
+                                          {filtered.crosswords.map(
+                                             (item, index) => (
+                                                <tr
+                                                   key={index}
+                                                   className="border-b border-gray-800"
+                                                >
+                                                   <td className="p-3 text-gray-300">
+                                                      {item.clue}
+                                                   </td>
+                                                   <td className="p-3 font-bold text-blue-400">
+                                                      {item.answer}
+                                                   </td>
+                                                </tr>
+                                             )
+                                          )}
+                                       </tbody>
+                                    </table>
+                                 </div>
+                              </div>
+                           )}
+                        </>
                      )}
                   </>
                )}
