@@ -61,6 +61,11 @@ interface Confidant {
    ranks: ConfidantRank[];
 }
 
+interface CrosswordItem {
+   clue: string;
+   answer: string;
+}
+
 interface NegotiationAnswer {
    answer: string;
    gloomy: string;
@@ -335,9 +340,91 @@ const useData = (): DataContextType => {
    return context;
 };
 
-// ==============================
-// NEW COMPONENTS
-// ==============================
+const crosswordData: CrosswordItem[] = [
+   { clue: "How school years are divided", answer: "Semester" },
+   { clue: "Hanami: cherry (?) viewing", answer: "Blossom" },
+   { clue: "Time for a trip: (?) week", answer: "Golden" },
+   { clue: "What are the May Blues?", answer: "Malaise" },
+   { clue: "Where art is shown off and sold", answer: "Gallery" },
+   { clue: "A type of outdoor allergy", answer: "Pollenosis" },
+   { clue: "Nihonga: (?) cultural artwork", answer: "Japanese" },
+   { clue: "Label for unparalleled artist", answer: "Master" },
+   { clue: "Held to inform the public", answer: "Conference" },
+   { clue: "Changes with the season", answer: "Wardrobe" },
+   { clue: "Exchanged all over the world", answer: "Currency" },
+   { clue: "A border between air masses", answer: "Front" },
+   { clue: "Medicine of varying legality", answer: "Narcotics" },
+   { clue: "Many students' greatest love", answer: "Vacation" },
+   { clue: "These gauge student knowledge", answer: "Finals" },
+   { clue: "A seasonal skybound event", answer: "Fireworks" },
+   { clue: "A stationary hotspot: heat (?)", answer: "Island" },
+   { clue: "Necessary for dares", answer: "Courage" },
+   { clue: "A common skin injury", answer: "Sunburn" },
+   { clue: "When it's too hot to sleep", answer: "Sweltering" },
+   { clue: "Techy term for e-infiltration", answer: "Hacking" },
+   { clue: "Localised destructive storm", answer: "Typhoon" },
+   { clue: "Tsukimi: Lunar viewing (?)", answer: "Festival" },
+   { clue: "Establishing order of worth", answer: "Ranking" },
+   { clue: "Absorbs the most light", answer: "Black" },
+   { clue: "Co-opted Celtic holiday", answer: "Halloween" },
+   { clue: "Lined up at school festivals", answer: "Stalls" },
+   { clue: "Tipster hotlines offer this", answer: "Reward" },
+   { clue: "Laying into someone", answer: "Bashing" },
+   { clue: "Draws people to you", answer: "Charisma" },
+   { clue: "A.K.A. sweating sickness", answer: "Influenza" },
+   { clue: "What lights do for store signage", answer: "Illuminate" },
+   { clue: "Politicians thrive on this rating", answer: "Approval" },
+   { clue: "Joyful holiday w/ an intruder", answer: "Christmas" },
+];
+
+const CrosswordList = () => {
+   const [searchQuery, setSearchQuery] = useState("");
+
+   const filteredData = searchQuery
+      ? crosswordData.filter(
+           (item) =>
+              item.clue.toLowerCase().includes(searchQuery.toLowerCase()) ||
+              item.answer.toLowerCase().includes(searchQuery.toLowerCase())
+        )
+      : crosswordData;
+
+   return (
+      <div className="p-3">
+         <div className="mb-4 bg-gray-900 p-3 rounded-lg">
+            <input
+               type="text"
+               placeholder="Filter crossword answers..."
+               className="w-full px-3 py-2 bg-gray-800 text-white rounded"
+               value={searchQuery}
+               onChange={(e) => setSearchQuery(e.target.value)}
+            />
+         </div>
+
+         <div className="bg-black rounded-lg shadow-lg overflow-hidden">
+            <table className="w-full border-collapse">
+               <thead className="bg-gray-800">
+                  <tr>
+                     <th className="p-3 text-left text-gray-200">Clue</th>
+                     <th className="p-3 text-left text-gray-200 w-1/3">
+                        Answer
+                     </th>
+                  </tr>
+               </thead>
+               <tbody>
+                  {filteredData.map((item, index) => (
+                     <tr key={index} className="border-b border-gray-800">
+                        <td className="p-3 text-gray-300">{item.clue}</td>
+                        <td className="p-3 font-bold text-blue-400">
+                           {item.answer}
+                        </td>
+                     </tr>
+                  ))}
+               </tbody>
+            </table>
+         </div>
+      </div>
+   );
+};
 
 // Header component with navigation tabs
 interface HeaderProps {
@@ -387,6 +474,18 @@ const Header = ({ activeTab, setActiveTab }: HeaderProps) => {
                   >
                      <List className="w-4 h-4 mr-1" />
                      <span className="hidden sm:inline">Negotiations</span>
+                  </button>
+
+                  <button
+                     onClick={() => setActiveTab("misc")}
+                     className={`p-2 rounded-t-lg flex items-center ${
+                        activeTab === "misc"
+                           ? "bg-black text-white"
+                           : "bg-red-950 text-gray-300"
+                     }`}
+                  >
+                     <List className="w-4 h-4 mr-1" />
+                     <span className="hidden sm:inline">Misc</span>
                   </button>
                </div>
             </div>
@@ -1076,6 +1175,14 @@ const AppContent = () => {
                </div>
             );
 
+         case "misc":
+            return (
+               <div className="p-3">
+                  <h2 className="text-xl font-bold mb-3">Crossword Answers</h2>
+                  <CrosswordList />
+               </div>
+            );
+
          default:
             return <HomeScreen />;
       }
@@ -1115,7 +1222,6 @@ const AppContent = () => {
    );
 };
 
-// Main App Component
 const App = () => {
    const [darkMode] = useState<boolean>(true);
 
